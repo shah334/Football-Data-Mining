@@ -1,0 +1,1671 @@
+
+	<!DOCTYPE html>
+	<html class="no-js">
+	<head>
+		
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>Football News and Scores - ESPN FC</title>
+<meta name="apple-itunes-app" content="app-id=317469184">
+<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.espnfc.com.au/rss" /><meta name="robots" content="index, follow" /><meta name="googlebot" content="index, follow" /><meta name="keywords" content="Football, Premier League, Champions League, Serie A, La Liga, Bundesliga, MLS, USA" /><meta name="description" content="Football news, scores, stats, and features from the world's leading football website" />
+	<meta property="fb:app_id" content="116656161708917">
+	<meta property="og:site_name" content="ESPNFC.com">
+	<meta property="og:title" content="ESPN FC" />
+	<meta property="og:type" content="article" />
+	<meta property="og:description" content="Football news, scores, stats, and features from the world's leading football website" /> 
+	<meta property="og:image" content="http://a.espncdn.com/wireless/alerts/smsSplash/fc/fcicon.png" />
+	<meta property="og:url" content="null" />
+	<meta name="twitter:site" content="@espnfc">
+	<meta name="twitter:title" content="ESPN FC">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:description" content="Football news, scores, stats, and features from the world's leading football website">
+	<meta name="twitter:image" content="http://a.espncdn.com/wireless/alerts/smsSplash/fc/fcicon.png">
+	<meta name="twitter:image:src" content="http://a.espncdn.com/wireless/alerts/smsSplash/fc/fcicon.png">
+	<meta name="twitter:url" content="http://www.espnfc.com/">
+	<meta name="twitter:app:name:iphone" content="ESPN FC Soccer"/>
+	<meta name="twitter:app:id:iphone" content="843848932"/>
+	<meta name="twitter:app:name:googleplay" content="ESPN FC Soccer"/>
+	<meta name="twitter:app:id:googleplay" content="com.espn.fc"/>
+	<link rel="canonical" href="http://www.espnfc.com/" />
+<link rel="alternate" hreflang="en-ph" href="http://www.espnfcasia.com/" />
+<link rel="alternate" hreflang="en-in" href="http://www.espn.in/football/" />
+<link rel="alternate" hreflang="en-ca" href="http://www.espnfc.us/" />
+<link rel="alternate" hreflang="en-pg" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en-vu" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en-bn" href="http://www.espnfcasia.com/" />
+<link rel="alternate" hreflang="en-tv" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en-ck" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en-ng" href="http://www.espnfc.com.ng/" />
+<link rel="alternate" hreflang="en-la" href="http://www.espnfcasia.com/" />
+<link rel="alternate" hreflang="en-kh" href="http://www.espnfcasia.com/" />
+<link rel="alternate" hreflang="en-mm" href="http://www.espnfcasia.com/" />
+<link rel="alternate" hreflang="en-ki" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en-nz" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en-sg" href="http://www.espnfcasia.com/" />
+<link rel="alternate" hreflang="en-us" href="http://www.espnfc.us/" />
+<link rel="alternate" hreflang="en-za" href="http://kwese.espn.com/football/" />
+<link rel="alternate" hreflang="en-mg" href="http://www.espnfcasia.com/" />
+<link rel="alternate" hreflang="en-sb" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en-mh" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en-fj" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en-ws" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en-fm" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en-au" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en-id" href="http://www.espnfcasia.com/" />
+<link rel="alternate" hreflang="en-pw" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en-pr" href="http://www.espnfc.us/" />
+<link rel="alternate" hreflang="en-nu" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en" href="http://www.espnfc.com/" />
+<link rel="alternate" hreflang="en-vn" href="http://www.espnfcasia.com/" />
+<link rel="alternate" hreflang="en-th" href="http://www.espnfcasia.com/" />
+<link rel="alternate" hreflang="en-nr" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en-to" href="http://www.espnfc.com.au/" />
+<link rel="alternate" hreflang="en-tl" href="http://www.espnfcasia.com/" />
+<link rel="alternate" hreflang="en-gb" href="http://www.espn.co.uk/football/" />
+
+<script>
+	var seconds = 1500,
+		time = seconds * 1000; // milliseconds
+	window.setTimeout(function() {
+		window.location.reload();
+	}, time);
+</script>
+<noscript>
+	<meta http-equiv="refresh" content="1500" />
+</noscript>
+
+		<!-- chartbeat -->
+		<script>var _sf_startpt=(new Date()).getTime();</script>
+		<script type="text/javascript">
+			window.espnfc = window.espnfc || {};
+			if (!window.console) window.console = { log : function() {} };
+			espnfc.config = {"region":"au","fullHost":"www.espnfc.com.au","edition":"en-au","host":"espnfc.com.au","contentCategory":{"id":2945,"data":{"sportId":600,"category":"Sport","objectId":600},"description":"Soccer","type":"ContentCategory","contentCategoryCategory":"Sport","name":"Soccer","slug":"latest","linkText":"Latest","linkUrl":"http://{{host}}/"},"debug":false,"publishedKey":"espnfc-en-au-index-home-600","uri":"/","environment":"prod","siteId":6,"varnish":true,"device":"pc","contentCategoryIds":[2945],"langId":0,"parameters":{"path":"/"},"language":"en","ads":{"network":6444,"site":"espnfc.com","sp":"espnfc","ed":"fc","showAds":true,"slug":"latest","parn":"frontpage","pgtyp":"frontpage"},"mobile":false};
+		</script>
+		
+<script>
+!function(){function n(n){for(var i=n+"=",e=document.cookie.split(";"),t=0;t<e.length;t++){for(var g=e[t];" "===g.charAt(0);)g=g.substring(1,g.length);if(0===g.indexOf(i))return g.substring(i.length,g.length)}return null}function i(){if("en"===e){var i=n("country"),t="|"+i+"|",g="|in|za|gb|",r="|bd|bt|in|mv|np|pk|af|lk|",f="|ao|bj|bw|bf|bi|cm|cv|cf|td|km|cg|cd|ci|dj|gq|er|et|ga|gm|gh|gn|gw|ke|ls|lr|mg|mw|ml|mr|mu|mz|na|ne|ng|re|rw|st|sn|sc|sl|so|za|ss|sd|sz|tz|tg|ug|ye|zm|zw|",o="|uk|gb|fk|gg|gi|gs|im|io|je|sh|ie|";if(r.indexOf(t)>-1?i="in":f.indexOf(t)>-1?i="za":o.indexOf(t)>-1&&(i="gb"),g.indexOf(i)>-1)for(var a=document.querySelectorAll("link[hreflang]"),c=0;c<a.length;c++){var s=a[c],l=s.getAttribute("hreflang"),d=new RegExp(e+"-"+i,"i");if(void 0!==l&&l.match(d)){var u=s.getAttribute("href"),h=window.location.origin+"/";if(void 0!==u&&-1===u.indexOf(h)){var m=u;window.location.href=m}}}}}var e;window.espnfc&&espnfc.config?e=espnfc.config.language:window.espn&&espn.i18n&&(e=espn.i18n.lang),e&&(window.location.href.match(/(https?:\/\/insider.|\/insider)/)||i())}();
+</script>
+<link rel="stylesheet" type="text/css" href="http://a.espncdn.com/combiner/c/?v=131&amp;css=espnfc/asteroids/common/defaults.css,espnfc/asteroids/common/helpers.css,fonts/bentonsans.css,fonts/bentonsansbold.css,fonts/bentonsansmedium.css,fonts/bentonsanscond.css,fonts/bentonsanscondmedium.css,espnfc/asteroids/thirdparty/yuicalendar.css,espnfc/asteroids/interface/all_interface.css,espnfc/asteroids/modules/all_modules.css,espnfc/asteroids/modules/feed/all_feed_modules.css" />
+<link rel="stylesheet" type="text/css" href="http://a.espncdn.com/combiner/c/?v=131&amp;css=espnfc/asteroids/pages/all_pages.css,nprogress.css,espnfc/asteroids/espnfc.overrides.css" />
+<link rel="stylesheet" type="text/css" href="http://a.espncdn.com/prod/styles/video/2.14.1-5/espn-web-player-bundle.css" />
+
+<style>
+.vjs-ad-loading.vjs-playing .vjs-tech {
+    display: block;
+}
+</style>
+	<!--[if lte IE 8]>
+		<link rel="stylesheet" type="text/css" href="http://a.espncdn.com/combiner/c/?v=131&amp;css=espnfc/asteroids/ie/ie8.css" />
+
+	<![endif]-->
+	<!--[if lte IE 9]>
+		<link rel="stylesheet" type="text/css" href="http://a.espncdn.com/combiner/c/?v=131&amp;css=espnfc/asteroids/ie/ie9.css" />
+
+	<![endif]-->
+	<script type="text/javascript">
+	String.prototype.namespace = function(separator) { var ns = this.split(separator || '.'), p = window, i, len; for (i = 0, len = ns.length; i < len; i++) { p = p[ns[i]] = p[ns[i]] || {}; } };
+	var espn = window.espn || {};
+	//var espnfc = window.espnfc || {};
+
+	if(typeof console === 'undefined') {
+		window.console = { log : function () {} };
+	}
+
+	</script>
+	<script src="https://cdn.registerdisney.go.com/v2/outer/DisneyID.js" id="disneyid-script"></script>
+	<script>espnfc.did=DisneyID.get({clientId:"ESPN-FC",cssOverride:"https://secure.espncdn.com/combiner/c?css=disneyid/core.css,disneyid/insider.css",responderPage:"https://www.espnfc.com/router?path=/lib/disneyId/responder/stg",initialize:true});</script>
+<!-- <script type="text/javascript" id="disneyid-script" src="https://stg.registerdisney.go.com/js/DisneyID.js"></script> -->
+<script type="text/javascript" src="http://a.espncdn.com/combiner/c?v=195&amp;js=jquery-1.10.2.js,plugins/waypoints.2.0.1.js,espnfc/asteroids/jquery.pubsub.js,espnfc/asteroids/espnfc.core.js,espn.storage.r6.js,espnfc/asteroids/espnfc.ads.r5.js,espnfc/asteroids/espnfc.insider.js,espnfc/asteroids/espnfc.disneyId.js,espnfc/asteroids/espnfc.caster.js,swfobject/2.2/swfobject.js,flashObjWrapper.r7.js,espnfc/lib/async.js,nprogress.js,plugins/jquery.history.1.8b2.js,espnfc/lib/jquery.cookie.fc.js,espnfc/asteroids/thirdparty/yui-min.js,plugins/jquery.migrate.js,plugins/jquery.ba-postmessage.js,espnfc/asteroids/thirdparty/modernizr.js,espnfc/asteroids/thirdparty/jquery.colorbox.js,espnfc/asteroids/thirdparty/picturefill.min.js,espnfc/asteroids/FC.js,espnfc/asteroids/DesktopNav.js,espnfc/asteroids/HomePage.js,espnfc/asteroids/Feed.js,espnfc/asteroids/VideoPage.js,espnfc/asteroids/Grid.js,espnfc/asteroids/Scorebar.js,espnfc/asteroids/Submenu.js,espnfc/asteroids/InsiderModule.js,espnfc/asteroids/GalleryModule.js,espnfc/asteroids/TabbedModule.js,espnfc/asteroids/Article.js,espnfc/asteroids/ContentToggle.js,espnfc/asteroids/old_desktop_nav/WorldCupDesktopNav.js,espnfc/asteroids/SearchPage.js,espnfc/asteroids/Pagination.js,espnfc/asteroids/ManagerPage.js,espnfc/asteroids/BracketPage.js,espnfc/asteroids/FeedPage.js,espnfc/asteroids/GroupsPage.js,espnfc/asteroids/HistoryPage.js,espnfc/asteroids/NotFoundPage.js,espnfc/asteroids/SquadPage.js,espnfc/asteroids/StatsPage.js,espnfc/asteroids/TransfersPage.js,espnfc/asteroids/VenuesPage.js,espnfc/asteroids/AthletesPage.js,espnfc/asteroids/Dropdown.js,espnfc/asteroids/MobileNav.js,espnfc/asteroids/SortableTable.js,espnfc/asteroids/ResponsiveTable.js,espnfc/asteroids/TablesPage.js,espnfc/asteroids/ScoresPage.js,espnfc/asteroids/Search.js,espnfc/asteroids/espnfc.setIso.js,espnfc/asteroids/espnfc.flash-message.js,espnfc/asteroids/espnfc.ajaxified-feed.js,espnfc/asteroids/espnfc.article.js,espnfc/asteroids/espnfc.image-fallback.js,espnfc/asteroids/espnfc.poll.js,espnfc/asteroids/espnfc.fix-tweet-heights.js"></script>
+<script type="text/javascript" src="http://a.espncdn.com/combiner/c?v=195&js=analytics/tracking-utils.js"></script>
+<script type="text/javascript" src="http://a.espncdn.com/combiner/c?v=195&amp;js=espnfc/asteroids/espnfc.video-player.js,espnfc/asteroids/espnfc.audio-player.js,espnfc/asteroids/espnfc.page.js,espnfc/asteroids/espnfc.page-transition.js,espnfc/asteroids/espnfc.ajaxify.js,espnfc/asteroids/espnfc.timezones.js,espnfc/asteroids/espnfc.init.js,espnfc/asteroids/espnfc.initOutbrain.js,espnfc/asteroids/espnfc.internationalredirect.js,espnfc/asteroids/espnfc.sharetools.js,plugins/jquery.metadata.js,espnfc/asteroids/thirdparty/ba-debug.js,espn.l10n.r12.js,espn.core.duo.r56.js,espnfc/asteroids/espnfc.jquery-reset.js,espnfc/asteroids/espn.geo.r3-video.js,espn.p13n.r16.js,espn.watchespn.r11.js,espnfc/asteroids/espnfc.watchespn.js"></script>
+<script type="text/javascript" src="http://a.espncdn.com/combiner/c?v=195&js=video/2.14.1-5/espn.video.universal.min.js&minify=false"></script>
+
+	<!--[if lte IE 8]>
+		<script type="text/javascript" src="http://a.espncdn.com/combiner/c?v=195&amp;js=espnfc/asteroids/espnfc.picturefill-ie8.js"></script>
+
+	<![endif]-->
+	<script>$(FC.Init)</script>
+	
+	<script type="text/javascript">
+		if( typeof s_omni === "undefined" ) window.s_account = window.setReportSuite( "wdgespsoccernet" );
+	</script>
+
+		<script>
+			//due to VPPA compliance we can not send keywords through URLs implicitly in the US
+			var countryValue = $.cookie("country");
+			if(!!countryValue && countryValue !== "us") {
+
+				(function() {
+					var _fbq = window._fbq || (window._fbq = []);
+					if (!_fbq.loaded) {
+						var fbds = document.createElement('script');
+						fbds.async = true;
+						fbds.src = '//connect.facebook.net/en_US/fbds.js';
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(fbds, s);
+						_fbq.loaded = true;
+					}
+					_fbq.push(['addPixelId', '1587432981493230']);
+				})();
+				window._fbq = window._fbq || [];
+				window._fbq.push(['track', 'PixelInitialized', {}]);
+
+				$.ajax({
+					url: '//pixel.mathtag.com/event/js?mt_id=694557&mt_adid=137010&v1=&v2=&v3=&s1=&s2=&s3=',
+					dataType: 'script',
+					cache: true
+				});
+			}
+		</script>
+		</head><body><div data-ad-type="ad-out-of-page" class="ad-out-of-page"></div><div data-ad-type="ad-slot-wallpaper" class="wallpaper ad ad-slot-wallpaper"></div><script>FC.init();</script><div id="fb-root"></div><script>
+(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=116656161708917";fjs.parentNode.insertBefore(js, fjs);}(document, "script", "facebook-jssdk"));
+</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<div id="site"><div id="site-content">
+
+				<nav id="desktop-nav" class="fc unselectable">
+					<div id="desktop-nav-content">
+
+						
+
+								<div id="desktop-nav-fc">
+									<div class="desktop-nav-group-shadow"></div>
+									<div class="desktop-nav-group-content">
+										<div class="desktop-nav-logo">
+											<a  name="&lpos=headernav:espnfc:home" href="http://www.espnfc.com.au/" title="ESPN FC Home">ESPN FC</a>
+										</div>
+										
+										
+
+	<div class="desktop-nav-item editions">
+		<a  name="&lpos=headernav:editions" href="#" class="primary-link">
+			<span>AU Edition</span>
+
+		</a>
+
+		
+			<div class="desktop-nav-dropdown">
+				<div class="desktop-nav-dropdown-content"></div>
+			</div>
+		
+	</div>
+
+
+
+	<div class="desktop-nav-item scores-fixtures">
+		<a  name="&lpos=headernav:scores" href="http://www.espnfc.com.au/scores" class="primary-link">
+			Scores
+		</a>
+
+		
+	</div>
+
+
+
+	<div class="desktop-nav-item transfers">
+		<a  name="&lpos=headernav:transfers" href="http://www.espnfc.com.au/transfers/news" class="primary-link">
+			Transfers
+		</a>
+
+		
+	</div>
+
+
+
+	<div class="desktop-nav-item nations">
+		<a  name="&lpos=headernav:countries" href="#" class="primary-link">
+			<span>Teams</span>
+
+		</a>
+
+		
+			<div class="desktop-nav-dropdown filtered">
+				<div class="desktop-nav-dropdown-content"></div>
+			</div>
+		
+	</div>
+
+
+
+	<div class="desktop-nav-item leagues">
+		<a  name="&lpos=headernav:leagues" href="#" class="primary-link">
+			<span>Leagues</span>
+
+		</a>
+
+		
+			<div class="desktop-nav-dropdown">
+				<div class="desktop-nav-dropdown-content"></div>
+			</div>
+		
+	</div>
+
+
+
+	<div class="desktop-nav-item tournaments">
+		<a  name="&lpos=headernav:competitions" href="#" class="primary-link">
+			<span>Cups</span>
+
+		</a>
+
+		
+			<div class="desktop-nav-dropdown">
+				<div class="desktop-nav-dropdown-content"></div>
+			</div>
+		
+	</div>
+
+
+
+	<div class="desktop-nav-item video">
+		<a  name="&lpos=headernav:video" href="http://www.espnfc.com.au/video" class="primary-link">
+			Video
+		</a>
+
+		
+	</div>
+
+
+
+	<div class="desktop-nav-item more">
+		<a  name="&lpos=headernav:more" href="#" class="primary-link">
+			<span>More</span>
+
+		</a>
+
+		
+			<div class="desktop-nav-dropdown">
+				<div class="desktop-nav-dropdown-content"></div>
+			</div>
+		
+	</div>
+
+
+
+										<div class="desktop-nav-extra">
+											
+											
+
+	<div class="desktop-nav-item espn-com">
+		<a  name="&lpos=headernav:espn main" href="http://espn.com/" class="primary-link">
+			ESPN.com
+		</a>
+
+		
+	</div>
+
+
+
+	<div class="desktop-nav-item icon search">
+		<a  name="&lpos=headernav:internal search" href="#" class="primary-link">
+			<span>Search</span>
+
+		</a>
+
+		
+			<div class="desktop-nav-search-container">
+				<form class="desktop-nav searchbox" action="http://search.espn.go.com/results" method="get" accept-charset="utf-8">
+					<input class="text searchString typeahead" name="searchString" placeholder="Search leagues, teams, players..." />
+					<div class="search-ajax-loader"></div>
+					<input type="submit" class="searchbox-submit"/>
+				</form>
+				<script>new FC.Search().init("form.desktop-nav.searchbox");</script>
+			</div>
+		
+	</div>
+
+
+
+	<div class="desktop-nav-item icon terms">
+		<a  name="&lpos=headernav:info" href="#" class="primary-link">
+			<span>Site Terms</span>
+
+		</a>
+
+		
+			<div class="desktop-nav-dropdown">
+				<div class="desktop-nav-dropdown-content"></div>
+			</div>
+		
+	</div>
+
+
+										</div>						
+									</div>
+								</div>
+							
+					</div>
+				</nav>
+
+			
+	
+	<div id="scorebar">
+		<form id="scorebar-form" action="/">
+
+			<div class="dropdown" id="scorebar-leagues">
+				<p class="dropdown-value">
+					<span>Featured Matches</span>
+				</p>
+				<select class="dropdown-select">
+					
+						<option value="featured">Featured Matches</option>
+					
+				</select>
+			</div>
+		</form>
+		
+		<a  name="&lpos=scoreboard:leftarrow" id="scorebar-previous" href="#">Previous</a>
+		<div id="scorebar-display">
+			<div id="scorebar-scroll">
+				
+						<div class="scorebar-league selected" data-league-id="featured">
+							
+	<div class="score compact" data-gameId="487693">
+		<div class="scorebox-container live">
+			<div class="score-content">
+				<div class="team-names">
+					<div class="team-name">
+						<span>Melbourne City FC</span>
+					</div>
+					<div class="team-name">
+						<span>Western Sydney Wanderers</span>
+					</div>
+				</div>
+				<div class="team-scores">
+					<div class="team-score">
+						<span>1</span>
+					</div>
+					<div class="team-score">
+						<span>1</span>
+					</div>
+				</div>
+				<div class="game-info">
+					
+					
+						<span><strong><em>LIVE</em></strong></span>
+						<span class="time"><em>76'</em></span>
+					
+
+				</div>
+			</div>
+			
+				
+				<a  name="&lpos=scoreboard:487693" href="http://www.espnfc.com.au/match?gameId=487693" class="primary-link" data-no-ajaxify="true">Game Details</a>
+
+			
+
+		</div>
+
+		
+	<div class="score-links odds live" data-geotarget-exclude="au,us,pk,in,eg,ir,sa,sy,ae,il,jo,ps,lb,om,kw,qa,bh,ye,lk,fr,fx,cl,co,af,as,ao,ar,bh,bd,be,bo,br,bg,bi,kh,ca,td,cr,cu,cd,do,ec,sv,er,fr,gf,gr,gp,gt,gw,ht,hn,hk,in,id,iq,il,it,kw,ly,my,mq,mx,mc,nl,ni,om,pk,pa,py,pe,ph,pr,qa,ro,bl,mf,sa,sg,so,za,tj,tr,tm,ae,uy,vi,uz,ve,ye,zw">	
+		<div class="odds-info">
+
+			<span>Live football odds with bet365.</span> <a target="_blank" href="http://www.bet365.com/home/?affiliate=365_307577">Bet Now&nbsp;&raquo;</a>	
+
+		</div>
+	</div>
+
+
+		
+
+	</div>
+
+	
+	<div class="score compact" data-gameId="497786">
+		<div class="scorebox-container upcoming">
+			<div class="score-content">
+				<div class="team-names">
+					<div class="team-name">
+						<span>Switzerland</span>
+					</div>
+					<div class="team-name">
+						<span>Northern Ireland</span>
+					</div>
+				</div>
+				<div class="team-scores">
+					<div class="team-score">
+						<span></span>
+					</div>
+					<div class="team-score">
+						<span></span>
+					</div>
+				</div>
+				<div class="game-info">
+					<span></span>
+					
+							<span class="time gmt-time" data-time="2017-11-12T17:00:00.000+0000">5:00 PM UTC</span>
+							
+
+				</div>
+			</div>
+			
+				<div class="extra-game-info">
+					<span class="game-leg">Leg 2</span><span class="game-aggregate">Aggregate: 1 - 0</span>
+				</div>
+			
+				
+				<a  name="&lpos=scoreboard:497786" href="http://www.espnfc.com.au/match?gameId=497786" class="primary-link" data-no-ajaxify="true">Game Details</a>
+
+			
+
+		</div>
+
+		
+	<div class="score-links odds upcoming" data-geotarget-exclude="au,us,pk,in,eg,ir,sa,sy,ae,il,jo,ps,lb,om,kw,qa,bh,ye,lk,fr,fx,cl,co,af,as,ao,ar,bh,bd,be,bo,br,bg,bi,kh,ca,td,cr,cu,cd,do,ec,sv,er,fr,gf,gr,gp,gt,gw,ht,hn,hk,in,id,iq,il,it,kw,ly,my,mq,mx,mc,nl,ni,om,pk,pa,py,pe,ph,pr,qa,ro,bl,mf,sa,sg,so,za,tj,tr,tm,ae,uy,vi,uz,ve,ye,zw">	
+		<div class="odds-info">
+
+			<span>Live football odds with bet365.</span> <a target="_blank" href="http://www.bet365.com/home/?affiliate=365_307577">Bet Now&nbsp;&raquo;</a>	
+
+		</div>
+	</div>
+
+
+		
+
+	</div>
+
+	
+	<div class="score compact" data-gameId="497784">
+		<div class="scorebox-container upcoming">
+			<div class="score-content">
+				<div class="team-names">
+					<div class="team-name">
+						<span>Greece</span>
+					</div>
+					<div class="team-name">
+						<span>Croatia</span>
+					</div>
+				</div>
+				<div class="team-scores">
+					<div class="team-score">
+						<span></span>
+					</div>
+					<div class="team-score">
+						<span></span>
+					</div>
+				</div>
+				<div class="game-info">
+					<span></span>
+					
+							<span class="time gmt-time" data-time="2017-11-12T19:45:00.000+0000">7:45 PM UTC</span>
+							
+
+				</div>
+			</div>
+			
+				<div class="extra-game-info">
+					<span class="game-leg">Leg 2</span><span class="game-aggregate">Aggregate: 1 - 4</span>
+				</div>
+			
+				
+				<a  name="&lpos=scoreboard:497784" href="http://www.espnfc.com.au/preview?gameId=497784" class="primary-link" data-no-ajaxify="true">Game Details</a>
+
+			
+
+		</div>
+
+		
+	<div class="score-links odds upcoming" data-geotarget-exclude="au,us,pk,in,eg,ir,sa,sy,ae,il,jo,ps,lb,om,kw,qa,bh,ye,lk,fr,fx,cl,co,af,as,ao,ar,bh,bd,be,bo,br,bg,bi,kh,ca,td,cr,cu,cd,do,ec,sv,er,fr,gf,gr,gp,gt,gw,ht,hn,hk,in,id,iq,il,it,kw,ly,my,mq,mx,mc,nl,ni,om,pk,pa,py,pe,ph,pr,qa,ro,bl,mf,sa,sg,so,za,tj,tr,tm,ae,uy,vi,uz,ve,ye,zw">	
+		<div class="odds-info">
+
+			<span>Live football odds with bet365.</span> <a target="_blank" href="http://www.bet365.com/home/?affiliate=365_307577">Bet Now&nbsp;&raquo;</a>	
+
+		</div>
+	</div>
+
+
+		
+
+	</div>
+
+	
+	<div class="score compact" data-gameId="464051">
+		<div class="scorebox-container upcoming">
+			<div class="score-content">
+				<div class="team-names">
+					<div class="team-name">
+						<span>Congo</span>
+					</div>
+					<div class="team-name">
+						<span>Uganda</span>
+					</div>
+				</div>
+				<div class="team-scores">
+					<div class="team-score">
+						<span></span>
+					</div>
+					<div class="team-score">
+						<span></span>
+					</div>
+				</div>
+				<div class="game-info">
+					
+					
+							<span class="time gmt-time" data-time="2017-11-12T14:30:00.000+0000">2:30 PM UTC</span>
+							
+
+				</div>
+			</div>
+			
+				
+				<a  name="&lpos=scoreboard:464051" href="http://www.espnfc.com.au/match?gameId=464051" class="primary-link" data-no-ajaxify="true">Game Details</a>
+
+			
+
+		</div>
+
+		
+	<div class="score-links odds upcoming" data-geotarget-exclude="au,us,pk,in,eg,ir,sa,sy,ae,il,jo,ps,lb,om,kw,qa,bh,ye,lk,fr,fx,cl,co,af,as,ao,ar,bh,bd,be,bo,br,bg,bi,kh,ca,td,cr,cu,cd,do,ec,sv,er,fr,gf,gr,gp,gt,gw,ht,hn,hk,in,id,iq,il,it,kw,ly,my,mq,mx,mc,nl,ni,om,pk,pa,py,pe,ph,pr,qa,ro,bl,mf,sa,sg,so,za,tj,tr,tm,ae,uy,vi,uz,ve,ye,zw">	
+		<div class="odds-info">
+
+			<span>Live football odds with bet365.</span> <a target="_blank" href="http://www.bet365.com/home/?affiliate=365_307577">Bet Now&nbsp;&raquo;</a>	
+
+		</div>
+	</div>
+
+
+		
+
+	</div>
+
+	
+	<div class="score compact" data-gameId="464044">
+		<div class="scorebox-container upcoming">
+			<div class="score-content">
+				<div class="team-names">
+					<div class="team-name">
+						<span>Ghana</span>
+					</div>
+					<div class="team-name">
+						<span>Egypt</span>
+					</div>
+				</div>
+				<div class="team-scores">
+					<div class="team-score">
+						<span></span>
+					</div>
+					<div class="team-score">
+						<span></span>
+					</div>
+				</div>
+				<div class="game-info">
+					
+					
+							<span class="time gmt-time" data-time="2017-11-12T15:30:00.000+0000">3:30 PM UTC</span>
+							
+
+				</div>
+			</div>
+			
+				
+				<a  name="&lpos=scoreboard:464044" href="http://www.espnfc.com.au/match?gameId=464044" class="primary-link" data-no-ajaxify="true">Game Details</a>
+
+			
+
+		</div>
+
+		
+	<div class="score-links odds upcoming" data-geotarget-exclude="au,us,pk,in,eg,ir,sa,sy,ae,il,jo,ps,lb,om,kw,qa,bh,ye,lk,fr,fx,cl,co,af,as,ao,ar,bh,bd,be,bo,br,bg,bi,kh,ca,td,cr,cu,cd,do,ec,sv,er,fr,gf,gr,gp,gt,gw,ht,hn,hk,in,id,iq,il,it,kw,ly,my,mq,mx,mc,nl,ni,om,pk,pa,py,pe,ph,pr,qa,ro,bl,mf,sa,sg,so,za,tj,tr,tm,ae,uy,vi,uz,ve,ye,zw">	
+		<div class="odds-info">
+
+			<span>Live football odds with bet365.</span> <a target="_blank" href="http://www.bet365.com/home/?affiliate=365_307577">Bet Now&nbsp;&raquo;</a>	
+
+		</div>
+	</div>
+
+
+		
+
+	</div>
+
+	
+	<div class="score compact" data-gameId="487829">
+		<div class="scorebox-container upcoming">
+			<div class="score-content">
+				<div class="team-names">
+					<div class="team-name">
+						<span>United States</span>
+					</div>
+					<div class="team-name">
+						<span>Canada</span>
+					</div>
+				</div>
+				<div class="team-scores">
+					<div class="team-score">
+						<span></span>
+					</div>
+					<div class="team-score">
+						<span></span>
+					</div>
+				</div>
+				<div class="game-info">
+					
+					
+							<span class="time gmt-time" data-time="2017-11-13T02:00:00.000+0000">2:00 AM UTC</span>
+							
+								<span class="game-date">Nov 13, 2017</span>
+							
+
+				</div>
+			</div>
+			
+				
+				<a  name="&lpos=scoreboard:487829" href="http://www.espnfc.com.au/match?gameId=487829" class="primary-link" data-no-ajaxify="true">Game Details</a>
+
+			
+
+		</div>
+
+		
+	<div class="score-links odds upcoming" data-geotarget-exclude="au,us,pk,in,eg,ir,sa,sy,ae,il,jo,ps,lb,om,kw,qa,bh,ye,lk,fr,fx,cl,co,af,as,ao,ar,bh,bd,be,bo,br,bg,bi,kh,ca,td,cr,cu,cd,do,ec,sv,er,fr,gf,gr,gp,gt,gw,ht,hn,hk,in,id,iq,il,it,kw,ly,my,mq,mx,mc,nl,ni,om,pk,pa,py,pe,ph,pr,qa,ro,bl,mf,sa,sg,so,za,tj,tr,tm,ae,uy,vi,uz,ve,ye,zw">	
+		<div class="odds-info">
+
+			<span>Live football odds with bet365.</span> <a target="_blank" href="http://www.bet365.com/home/?affiliate=365_307577">Bet Now&nbsp;&raquo;</a>	
+
+		</div>
+	</div>
+
+
+		
+
+	</div>
+
+	
+	<div class="score compact" data-gameId="498009">
+		<div class="scorebox-container upcoming">
+			<div class="score-content">
+				<div class="team-names">
+					<div class="team-name">
+						<span>River Plate</span>
+					</div>
+					<div class="team-name">
+						<span>Deportivo Morón</span>
+					</div>
+				</div>
+				<div class="team-scores">
+					<div class="team-score">
+						<span></span>
+					</div>
+					<div class="team-score">
+						<span></span>
+					</div>
+				</div>
+				<div class="game-info">
+					
+					
+							<span class="time gmt-time" data-time="2017-11-12T23:30:00.000+0000">11:30 PM UTC</span>
+							
+
+				</div>
+			</div>
+			
+				
+				<a  name="&lpos=scoreboard:498009" href="http://www.espnfc.com.au/match?gameId=498009" class="primary-link" data-no-ajaxify="true">Game Details</a>
+
+			
+
+		</div>
+
+		
+	<div class="score-links odds upcoming" data-geotarget-exclude="au,us,pk,in,eg,ir,sa,sy,ae,il,jo,ps,lb,om,kw,qa,bh,ye,lk,fr,fx,cl,co,af,as,ao,ar,bh,bd,be,bo,br,bg,bi,kh,ca,td,cr,cu,cd,do,ec,sv,er,fr,gf,gr,gp,gt,gw,ht,hn,hk,in,id,iq,il,it,kw,ly,my,mq,mx,mc,nl,ni,om,pk,pa,py,pe,ph,pr,qa,ro,bl,mf,sa,sg,so,za,tj,tr,tm,ae,uy,vi,uz,ve,ye,zw">	
+		<div class="odds-info">
+
+			<span>Live football odds with bet365.</span> <a target="_blank" href="http://www.bet365.com/home/?affiliate=365_307577">Bet Now&nbsp;&raquo;</a>	
+
+		</div>
+	</div>
+
+
+		
+
+	</div>
+
+	
+	<div class="score compact" data-gameId="487694">
+		<div class="scorebox-container complete">
+			<div class="score-content">
+				<div class="team-names">
+					<div class="team-name">
+						<span>Wellington Phoenix FC</span>
+					</div>
+					<div class="team-name">
+						<span>Perth Glory</span>
+					</div>
+				</div>
+				<div class="team-scores">
+					<div class="team-score winner">
+						<span>5</span>
+					</div>
+					<div class="team-score">
+						<span>2</span>
+					</div>
+				</div>
+				<div class="game-info">
+					
+					
+						<span class="time">FT</span>
+					
+
+				</div>
+			</div>
+			
+				
+				<a  name="&lpos=scoreboard:487694" href="http://www.espnfc.com.au/report?gameId=487694" class="primary-link" data-no-ajaxify="true">Game Details</a>
+
+			
+
+		</div>
+
+		
+	<div class="score-links odds complete" data-geotarget-exclude="au,us,pk,in,eg,ir,sa,sy,ae,il,jo,ps,lb,om,kw,qa,bh,ye,lk,fr,fx,cl,co,af,as,ao,ar,bh,bd,be,bo,br,bg,bi,kh,ca,td,cr,cu,cd,do,ec,sv,er,fr,gf,gr,gp,gt,gw,ht,hn,hk,in,id,iq,il,it,kw,ly,my,mq,mx,mc,nl,ni,om,pk,pa,py,pe,ph,pr,qa,ro,bl,mf,sa,sg,so,za,tj,tr,tm,ae,uy,vi,uz,ve,ye,zw">	
+		<div class="odds-info">
+
+			<span>Live football odds with bet365.</span> <a target="_blank" href="http://www.bet365.com/home/?affiliate=365_307577">Bet Now&nbsp;&raquo;</a>	
+
+		</div>
+	</div>
+
+
+		
+
+	</div>
+
+	
+						</div>
+					
+			</div>
+		</div>
+		<a  name="&lpos=scoreboard:rightarrow" id="scorebar-next" href="#">Next</a>
+		<div id="caster"></div>
+	</div>
+				<div id="main">
+					<div id="main-content">
+						<div class="ad-area">
+							<div class="ad-area-content">
+								<div class="top ad">
+																		
+										<div data-ad-type="ad-pencil" class="ad-content"></div>
+																		
+								</div>
+							</div>
+						</div>
+						<div class="page-area">
+							<!--[if lte IE 8]><link rel="stylesheet" charset="utf-8" media="screen" href="http://a.espncdn.com/prod/styles/espnfc/browser-alert.css" type="text/css" /><script>jQuery( document ).ready(function() {jQuery(".btn-close.upgrade").click(function(){jQuery("#browser-alert-wrapper").hide();});});</script><div class="span-6" id="browser-alert-wrapper"><div class="mod-container browser-alert"><div class="alert-mod-content"><div class="gradient-container"><h1><span>Your Web Browser</span> is no longer supported</h1><p>To experience everything that ESPNFC.com has to offer, we recommend that you upgrade to a newer version of your web browser. Click the upgrade button to the right or <a class="blue-font" href="http://espn.go.com/espn/news/story?id=5630562"><font color="blue"><u>learn more</u></font></a>.</p><ul><li><a class="btn-upgrade" href="http://www.microsoft.com/windows/internet-explorer/default.aspx">Upgrade</a></li><li><a class="btn-faq" href="http://espn.go.com/espn/news/story?id=5630562">FAQs</a></li><li><a class="btn-close upgrade"></a></li></ul></div></div></div></div><![endif]--><div class="page-area-content">
+	<div id="home-page">
+		<div id="home-page-content">
+			<div class="grid">
+				<div class="grid-content">
+					<div id="top-story-and-headlines">
+						
+	<div id="top-story" class="article" data-content-id="3265150">
+		
+		
+	
+		<div data-video-id="3265148" data-start-on-click="1" class="thumbnail video-placeholder videoplayer">
+			
+			<div class="video-placeholder-content">
+				<div class="picture">
+					
+					
+				<img width="904" height="509" src="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1110/int_171110_INET_FC_WC_HOPEFULS_HWTLU/int_171110_INET_FC_WC_HOPEFULS_HWTLU.jpg&amp;w=904&amp;h=509&amp;scale=crop&amp;site=espnfc" />
+			
+					
+				</div>
+			</div>
+		</div>
+	
+	<div class="text" data-type="mem">
+		<div class="text-content">
+			
+				<h1>
+					<a  name="&lpos=headlines:main1:3265150:who+deserves+a+spot+in+russia?" href="http://www.espnfc.com.au/world-cup-qualifying/61/video/3265148/world-cup-faceoff-who-deserves-a-place" class="common-link">Who deserves a spot in Russia?</a>
+				</h1>
+			
+
+			<p><a href="http://www.espnfc.com.au/world-cup-qualifying/61/video/3265148/world-cup-faceoff-who-deserves-a-place">The Exploding Heads present some irreverent World Cup playoff predictions. Which country has the coolest nickname? What is the significance of Danish bicycles? And why does a long place name help New Zealand? <b>Watch &#187</b></a></p>
+
+			
+			<ul>
+				
+				<li>
+					<a  name="&lpos=headlines:main1:3266638:italy+in+trouble+after+sweden+defeat" href="http://www.espnfc.com.au/team/italy/162/blog/post/3266638/italy-in-dire-state-after-sweden-defeat-pressure-on-gian-piero-ventura" title="Italy in real trouble after Sweden loss piles pressure on Gian Piero Ventura">
+						
+						Italy in trouble after Sweden defeat
+					</a>
+				</li>
+				
+				<li>
+					<a  name="&lpos=headlines:main1:2484717:world+cup:+who+has+qualified+for+russia?" href="http://www.espnfc.com.au/fifa-world-cup/story/2484717/2018-world-cup-who-has-qualified-for-the-finals-and-who-can-get-there" title="2018 World Cup: Who has qualified for the finals and who can get there?">
+						
+						World Cup: Who has qualified for Russia?
+					</a>
+				</li>
+				
+				<li>
+					<a  name="&lpos=headlines:main1:3267177:transfer+talk:+real's+bale+for+sale" href="http://www.espnfc.com.au/blog/transfer-talk/79/post/3267177/real-madrid-set-price-for-gareth-bale-arsenal-in-for-wilfried-zaha" title="Real Madrid set price for Gareth Bale; Arsenal in for Palace's Wilfried Zaha">
+						
+						Transfer Talk: Real's Bale for sale
+					</a>
+				</li>
+				
+			</ul>
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/world-cup-qualifying/61/index">World Cup Qualifying</a>
+				<span class="age"><time datetime="2017-11-10T09:29:35-08:00">1 day ago</time></span>
+				
+			</div>
+		</div>
+	</div>
+	
+	
+
+	</div>
+	
+<div id="top-headlines">
+	<h4>Headlines</h4>
+	
+			<div id="top-headline-items">
+				<div class="top-headline-item">
+	
+		<div class="thumbnail picture">
+			
+			
+			<a href="http://www.espnfc.com.au/world-cup-qualifying-caf/story/3266946/morocco-stun-ivory-coast-to-join-tunisia-in-qualifying-for-2018-world-cup">
+				
+				<img width="140" height="140" src="http://a.espncdn.com/combiner/i/?img=/photo/2017/1111/r287464_1296x729_16-9.jpg&amp;w=140&amp;h=140&amp;scale=crop&amp;site=espnfc" alt="Medhi Benatia of Morocco" title="Medhi Benatia of Morocco" />
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  name="&lpos=headlines:headline1:3266946:morocco+and+tunisia+qualify+for+world+cup" href="http://www.espnfc.com.au/world-cup-qualifying-caf/story/3266946/morocco-stun-ivory-coast-to-join-tunisia-in-qualifying-for-2018-world-cup" class="common-link">Morocco and Tunisia qualify for World Cup</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/world-cup-qualifying-caf/63/index">World Cup Qualifying - CAF</a>
+				<span class="age"><time datetime="2017-11-11T11:25:00-08:00">14 hours ago</time></span>
+				<span class="author byline">ESPN staff </span>
+			</div>
+		</div>
+	</div>
+	
+	<a  name="&lpos=headlines:headline1:3266946:morocco+stun+ivory+coast+to+join+tunisia+in+qualifying+for+2018+world+cup" href="http://www.espnfc.com.au/world-cup-qualifying-caf/story/3266946/morocco-stun-ivory-coast-to-join-tunisia-in-qualifying-for-2018-world-cup" class="primary-link common-link">Read</a>
+	
+	
+</div><div class="top-headline-item">
+	
+		<div class="thumbnail picture">
+			
+			
+			<a href="http://www.espnfc.com.au/report?gameId=497790">
+				
+				<img width="140" height="140" src="http://a.espncdn.com/combiner/i/?img=/photo/2017/1111/r287538_1296x729_16-9.jpg&amp;w=140&amp;h=140&amp;scale=crop&amp;site=espnfc" alt="Harry Arter moves in on Christian Eriksen during the Republic of Ireland's World Cup playoff against Denmark." title="Harry Arter moves in on Christian Eriksen during the Republic of Ireland's World Cup playoff against Denmark." />
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  name="&lpos=headlines:headline2:3262661:rep+of+ireland+hold+denmark+to+0-0+draw" href="http://www.espnfc.com.au/report?gameId=497790" class="common-link">Rep of Ireland hold Denmark to 0-0 draw</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/world-cup-qualifying-uefa/67/index">World Cup Qualifying - UEFA</a>
+				<span class="age"><time datetime="2017-11-11T13:35:00-08:00">12 hours ago</time></span>
+				<span class="author byline">PA Sport</span>
+			</div>
+		</div>
+	</div>
+	
+	<a  name="&lpos=headlines:headline2:3262661:republic+of+ireland+hold+denmark+to+0-0+draw+in+first+leg" href="http://www.espnfc.com.au/report?gameId=497790" class="primary-link common-link">Read</a>
+	
+	
+</div><div class="top-headline-item">
+	
+		<div class="thumbnail picture">
+			
+			
+			<a href="http://www.espnfc.com.au/english-premier-league/story/3267192/olivier-giroud-says-the-trust-of-arsene-wenger-validates-arsenal-stay">
+				
+				<img width="140" height="140" src="http://a.espncdn.com/combiner/i/?img=/photo/2017/1110/r287175_1296x729_16-9.jpg&amp;w=140&amp;h=140&amp;scale=crop&amp;site=espnfc" />
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  name="&lpos=headlines:headline3:3267192:wenger+trust+key+to+arsenal+stay+-+giroud" href="http://www.espnfc.com.au/english-premier-league/story/3267192/olivier-giroud-says-the-trust-of-arsene-wenger-validates-arsenal-stay" class="common-link">Wenger trust key to Arsenal stay - Giroud</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/english-premier-league/23/index">Arsenal</a>
+				<span class="age"><time datetime="2017-11-11T18:47:00-08:00">7 hours ago</time></span>
+				<span class="author byline">ESPN staff</span>
+			</div>
+		</div>
+	</div>
+	
+	<a  name="&lpos=headlines:headline3:3267192:olivier+giroud+says+the+trust+of+arsene+wenger+validates+arsenal+stay" href="http://www.espnfc.com.au/english-premier-league/story/3267192/olivier-giroud-says-the-trust-of-arsene-wenger-validates-arsenal-stay" class="primary-link common-link">Read</a>
+	
+	
+</div><div class="top-headline-item">
+	
+		<div class="thumbnail picture">
+			
+			
+			<a href="http://www.espnfc.com.au/world-cup-qualifying-uefa/story/3267151/kasper-schmeichel-critical-of-denmarks-horrendous-pitch-after-playoff-draw">
+				
+				<img width="140" height="140" src="http://a.espncdn.com/combiner/i/?img=/photo/2017/1111/r287517_1296x729_16-9.jpg&amp;w=140&amp;h=140&amp;scale=crop&amp;site=espnfc" />
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  name="&lpos=headlines:headline4:3267151:schmeichel:+denmark's+pitch+'horrendous'" href="http://www.espnfc.com.au/world-cup-qualifying-uefa/story/3267151/kasper-schmeichel-critical-of-denmarks-horrendous-pitch-after-playoff-draw" class="common-link">Schmeichel: Denmark's pitch 'horrendous'</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/world-cup-qualifying-uefa/67/index">World Cup Qualifying - UEFA</a>
+				<span class="age"><time datetime="2017-11-11T14:49:00-08:00">11 hours ago</time></span>
+				<span class="author byline">Mark Ogden</span>
+			</div>
+		</div>
+	</div>
+	
+	<a  name="&lpos=headlines:headline4:3267151:kasper+schmeichel+critical+of+denmark's+'horrendous'+pitch+after+playoff+draw" href="http://www.espnfc.com.au/world-cup-qualifying-uefa/story/3267151/kasper-schmeichel-critical-of-denmarks-horrendous-pitch-after-playoff-draw" class="primary-link common-link">Read</a>
+	
+	
+</div>
+							<div class="in-content ad">
+								<div data-ad-type="ad-in-content" class="ad-content"></div>
+							</div>
+							<div class="top-headline-item">
+	
+		<div class="thumbnail picture">
+			
+			
+			<a href="http://www.espnfc.com.au/england/story/3267096/injury-forces-man-united-defender-phil-jones-to-withdraw-from-england-squad">
+				
+				<img width="140" height="140" src="http://a.espncdn.com/combiner/i/?img=/photo/2017/1110/r287134_1296x729_16-9.jpg&amp;w=140&amp;h=140&amp;scale=crop&amp;site=espnfc" />
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  name="&lpos=headlines:headline5:3267096:man+utd's+jones+withdraws+from+england" href="http://www.espnfc.com.au/england/story/3267096/injury-forces-man-united-defender-phil-jones-to-withdraw-from-england-squad" class="common-link">Man Utd's Jones withdraws from England</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/team/england/448/index">England</a>
+				<span class="age"><time datetime="2017-11-11T14:04:00-08:00">11 hours ago</time></span>
+				<span class="author byline">PA Sport</span>
+			</div>
+		</div>
+	</div>
+	
+	<a  name="&lpos=headlines:headline5:3267096:injury+forces+man+united+defender+phil+jones+to+withdraw+from+england+squad+" href="http://www.espnfc.com.au/england/story/3267096/injury-forces-man-united-defender-phil-jones-to-withdraw-from-england-squad" class="primary-link common-link">Read</a>
+	
+	
+</div><div class="top-headline-item">
+	
+		<div class="thumbnail picture">
+			
+			
+			<a href="http://www.espnfc.com.au/report?gameId=497667">
+				
+				<img width="140" height="140" src="http://a.espncdn.com/combiner/i/?img=/photo/2017/1111/r287589_1296x729_16-9.jpg&amp;w=140&amp;h=140&amp;scale=crop&amp;site=espnfc" />
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  name="&lpos=headlines:headline6:3267154:silva's+brace+helps+spain+crush+costa+rica" href="http://www.espnfc.com.au/report?gameId=497667" class="common-link">Silva's brace helps Spain crush Costa Rica</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/international-friendly/53/index">International Friendly</a>
+				<span class="age"><time datetime="2017-11-11T14:51:00-08:00">11 hours ago</time></span>
+				<span class="author byline">PA Sport</span>
+			</div>
+		</div>
+	</div>
+	
+	<a  name="&lpos=headlines:headline6:3267154:david+silva's+brace+helps+spain+dominate+costa+rica+in+friendly" href="http://www.espnfc.com.au/report?gameId=497667" class="primary-link common-link">Read</a>
+	
+	
+</div><div class="top-headline-item">
+	
+		<div class="thumbnail picture">
+			
+			
+			<a href="http://www.espnfc.com.au/spain/story/3267185/spains-isco-hailed-by-coach-and-teammate-after-picking-up-knock-in-friendly">
+				
+				<img width="140" height="140" src="http://a.espncdn.com/combiner/i/?img=/photo/2017/1111/r287646_1296x729_16-9.jpg&amp;w=140&amp;h=140&amp;scale=crop&amp;site=espnfc" />
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  name="&lpos=headlines:headline7:3267185:isco+picks+up+knock+after+shining+for+spain" href="http://www.espnfc.com.au/spain/story/3267185/spains-isco-hailed-by-coach-and-teammate-after-picking-up-knock-in-friendly" class="common-link">Isco picks up knock after shining for Spain</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/team/spain/164/index">Spain</a>
+				<span class="age"><time datetime="2017-11-11T17:44:00-08:00">8 hours ago</time></span>
+				<span class="author byline">ESPN staff</span>
+			</div>
+		</div>
+	</div>
+	
+	<a  name="&lpos=headlines:headline7:3267185:spain's+isco+hailed+by+coach+and+teammate+after+picking+up+knock+in+friendly" href="http://www.espnfc.com.au/spain/story/3267185/spains-isco-hailed-by-coach-and-teammate-after-picking-up-knock-in-friendly" class="primary-link common-link">Read</a>
+	
+	
+</div><div class="top-headline-item">
+	
+		<div class="thumbnail picture">
+			
+			
+			<a href="http://www.espnfc.com.au/england/story/3267156/loftus-cheek-relishes-regular-play-at-crystal-palace-after-chelsea-journey">
+				
+				<img width="140" height="140" src="http://a.espncdn.com/combiner/i/?img=/photo/2017/1110/r287184_1296x729_16-9.jpg&amp;w=140&amp;h=140&amp;scale=crop&amp;site=espnfc" />
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  name="&lpos=headlines:headline8:3267156:chelsea+part+of+'my+journey'+-+loftus-cheek" href="http://www.espnfc.com.au/england/story/3267156/loftus-cheek-relishes-regular-play-at-crystal-palace-after-chelsea-journey" class="common-link">Chelsea part of 'my journey' - Loftus-Cheek</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/team/england/448/index">England</a>
+				<span class="age"><time datetime="2017-11-11T14:32:00-08:00">11 hours ago</time></span>
+				<span class="author byline">LIam Twomey</span>
+			</div>
+		</div>
+	</div>
+	
+	<a  name="&lpos=headlines:headline8:3267156:loftus-cheek+relishes+regular+play+at+crystal+palace+after+chelsea+'journey'" href="http://www.espnfc.com.au/england/story/3267156/loftus-cheek-relishes-regular-play-at-crystal-palace-after-chelsea-journey" class="primary-link common-link">Read</a>
+	
+	
+</div><div class="top-headline-item">
+	
+		<div class="thumbnail picture">
+			
+			
+			<a href="http://www.espnfc.com.au/atletico-madrid/story/3266465/diego-simeone-untouchable-at-atletico-madrid-president">
+				
+				<img width="140" height="140" src="http://a.espncdn.com/combiner/i/?img=/photo/2017/1111/r287344_1296x729_16-9.jpg&amp;w=140&amp;h=140&amp;scale=crop&amp;site=espnfc" />
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  name="&lpos=headlines:headline9:3266465:simeone+'untouchable'+-+atletico+president" href="http://www.espnfc.com.au/atletico-madrid/story/3266465/diego-simeone-untouchable-at-atletico-madrid-president" class="common-link">Simeone 'untouchable' - Atletico president</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/club/atletico-madrid/1068/index">Atletico Madrid</a>
+				<span class="age"><time datetime="2017-11-11T04:54:00-08:00">21 hours ago</time></span>
+				<span class="author byline">ESPN staff</span>
+			</div>
+		</div>
+	</div>
+	
+	<a  name="&lpos=headlines:headline9:3266465:diego+simeone+'untouchable'+at+atletico+madrid+-+president" href="http://www.espnfc.com.au/atletico-madrid/story/3266465/diego-simeone-untouchable-at-atletico-madrid-president" class="primary-link common-link">Read</a>
+	
+	
+</div><div class="top-headline-item">
+	
+		<div class="thumbnail picture">
+			
+			
+			<a href="http://www.espnfc.com.au/report?gameId=479255">
+				
+				<img width="140" height="140" src="http://a.espncdn.com/combiner/i/?img=/photo/2017/1111/r287380_1296x729_16-9.jpg&amp;w=140&amp;h=140&amp;scale=crop&amp;site=espnfc" />
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  name="&lpos=headlines:headline10:3266666:aguero+goal+sees+argentina+past+russia" href="http://www.espnfc.com.au/report?gameId=479255" class="common-link">Aguero goal sees Argentina past Russia</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/team/argentina/202/index">Argentina</a>
+				<span class="age"><time datetime="2017-11-11T07:04:00-08:00">18 hours ago</time></span>
+				<span class="author byline">PA Sport</span>
+			</div>
+		</div>
+	</div>
+	
+	<a  name="&lpos=headlines:headline10:3266666:sergio+aguero+goal+sees+argentina+to+victory+in+russia+friendly" href="http://www.espnfc.com.au/report?gameId=479255" class="primary-link common-link">Read</a>
+	
+	
+</div>
+		</div>
+	
+</div>
+
+					</div>
+
+					
+						
+						<div id="home-page-groups">
+							<div class="home-page-group clearfix" alt=" HIGHLIGHTS "><div class="home-page-group-header"><h4><a class="source" href="http://www.espnfc.com.au/video">HIGHLIGHTS</a></h4></div><div class="home-page-row first-row clearfix">
+
+		<div class="grid-item span-1 media-media cc-international common-link-root" data-content-id="3262716">
+			<div class="grid-item-content">
+				
+	
+		<div class="thumbnail picture media">
+			
+			
+			<a href="http://www.espnfc.com.au/international/55/video/3262716/watch-fara-williams-scores-from-kick-off">
+				
+				<picture>
+					<!--[if IE 9]><video style="display: none;"><![endif]-->
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1107/int_171107_inet_fc_stunner_for_reading_ladies/int_171107_inet_fc_stunner_for_reading_ladies.jpg&amp;w=258&amp;h=172&amp;scale=crop&amp;site=espnfc" media="(min-width: 768px) and (max-width: 1024px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1107/int_171107_inet_fc_stunner_for_reading_ladies/int_171107_inet_fc_stunner_for_reading_ladies.jpg&amp;w=306&amp;h=204&amp;scale=crop&amp;site=espnfc" media="(min-width: 1025px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1107/int_171107_inet_fc_stunner_for_reading_ladies/int_171107_inet_fc_stunner_for_reading_ladies.jpg&amp;w=64&amp;h=64&amp;scale=crop&amp;site=espnfc" media="(max-width: 767px)">
+					
+					<!--[if IE 9]></video><![endif]-->
+					<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+				</picture>
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  href="http://www.espnfc.com.au/international/55/video/3262716/watch-fara-williams-scores-from-kick-off" class="common-link">WATCH: Fara Williams scores from kick-off</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/international/55/index">International</a>
+				<span class="age"><time datetime="2017-11-07T07:55:46-08:00">4 days ago</time></span>
+				
+			</div>
+		</div>
+	</div>
+	
+	<a  href="http://www.espnfc.com.au/international/55/video/3262716/watch-fara-williams-scores-from-kick-off" class="primary-link common-link">Read</a>
+	
+	
+
+			</div>
+		</div>
+		
+	
+
+		<div class="grid-item span-1 media-media cc-spanish-primera-división common-link-root" data-content-id="3262230" data-geotarget-include="mh,nz,fm,pw,au,fj">
+			<div class="grid-item-content">
+				
+	
+		<div class="thumbnail picture media">
+			
+			
+			<a href="http://www.espnfc.com.au/spanish-primera-division/15/video/3262230/watch-top-la-liga-goals-of-the-week">
+				
+				<picture>
+					<!--[if IE 9]><video style="display: none;"><![endif]-->
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1106/int_171106_WATCH_Top_La_Liga_goals_of_the_week_PAC_ONLY/int_171106_WATCH_Top_La_Liga_goals_of_the_week_PAC_ONLY.jpg&amp;w=258&amp;h=172&amp;scale=crop&amp;site=espnfc" media="(min-width: 768px) and (max-width: 1024px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1106/int_171106_WATCH_Top_La_Liga_goals_of_the_week_PAC_ONLY/int_171106_WATCH_Top_La_Liga_goals_of_the_week_PAC_ONLY.jpg&amp;w=306&amp;h=204&amp;scale=crop&amp;site=espnfc" media="(min-width: 1025px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1106/int_171106_WATCH_Top_La_Liga_goals_of_the_week_PAC_ONLY/int_171106_WATCH_Top_La_Liga_goals_of_the_week_PAC_ONLY.jpg&amp;w=64&amp;h=64&amp;scale=crop&amp;site=espnfc" media="(max-width: 767px)">
+					
+					<!--[if IE 9]></video><![endif]-->
+					<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+				</picture>
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  href="http://www.espnfc.com.au/spanish-primera-division/15/video/3262230/watch-top-la-liga-goals-of-the-week" class="common-link">WATCH: Top La Liga goals of the week</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/spanish-primera-division/15/index">Spanish Primera División</a>
+				<span class="age"><time datetime="2017-11-06T18:16:04-08:00">5 days ago</time></span>
+				
+			</div>
+		</div>
+	</div>
+	
+	<a  href="http://www.espnfc.com.au/spanish-primera-division/15/video/3262230/watch-top-la-liga-goals-of-the-week" class="primary-link common-link">Read</a>
+	
+	
+
+			</div>
+		</div>
+		
+	
+
+		<div class="grid-item span-1 media-media cc-videos-mls-highlights common-link-root" data-content-id="3262015">
+			<div class="grid-item-content">
+				
+	
+		<div class="thumbnail picture media">
+			
+			
+			<a href="http://www.espnfc.com.au/video/mls-highlights/150/video/3262015/watch-top-5-mls-cup-playoffs-goals-so-far">
+				
+				<picture>
+					<!--[if IE 9]><video style="display: none;"><![endif]-->
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1106/int_171106_INET_FC_Top_MLS_Cup_Playoffs_Goals/int_171106_INET_FC_Top_MLS_Cup_Playoffs_Goals.jpg&amp;w=258&amp;h=172&amp;scale=crop&amp;site=espnfc" media="(min-width: 768px) and (max-width: 1024px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1106/int_171106_INET_FC_Top_MLS_Cup_Playoffs_Goals/int_171106_INET_FC_Top_MLS_Cup_Playoffs_Goals.jpg&amp;w=306&amp;h=204&amp;scale=crop&amp;site=espnfc" media="(min-width: 1025px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1106/int_171106_INET_FC_Top_MLS_Cup_Playoffs_Goals/int_171106_INET_FC_Top_MLS_Cup_Playoffs_Goals.jpg&amp;w=64&amp;h=64&amp;scale=crop&amp;site=espnfc" media="(max-width: 767px)">
+					
+					<!--[if IE 9]></video><![endif]-->
+					<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+				</picture>
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  href="http://www.espnfc.com.au/video/mls-highlights/150/video/3262015/watch-top-5-mls-cup-playoffs-goals-so-far" class="common-link">WATCH: Top 5 MLS Cup Playoffs goals so far</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/video/mls-highlights/150/index">MLS Highlights</a>
+				<span class="age"><time datetime="2017-11-06T10:51:52-08:00">5 days ago</time></span>
+				
+			</div>
+		</div>
+	</div>
+	
+	<a  href="http://www.espnfc.com.au/video/mls-highlights/150/video/3262015/watch-top-5-mls-cup-playoffs-goals-so-far" class="primary-link common-link">Read</a>
+	
+	
+
+			</div>
+		</div>
+		
+	
+
+		<div class="grid-item span-1 media-media cc- common-link-root" data-content-id="3261545" data-geotarget-exclude="nl">
+			<div class="grid-item-content">
+				
+	
+		<div class="thumbnail picture media">
+			
+			
+			<a href="http://www.espnfc.com.au/dutch-eredivisie/11/video/3261545/watch-stunning-volley-caps-team-goal">
+				
+				<picture>
+					<!--[if IE 9]><video style="display: none;"><![endif]-->
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1106/int_171106_WATCH_Stunning_volley_caps_team_goal/int_171106_WATCH_Stunning_volley_caps_team_goal.jpg&amp;w=258&amp;h=172&amp;scale=crop&amp;site=espnfc" media="(min-width: 768px) and (max-width: 1024px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1106/int_171106_WATCH_Stunning_volley_caps_team_goal/int_171106_WATCH_Stunning_volley_caps_team_goal.jpg&amp;w=306&amp;h=204&amp;scale=crop&amp;site=espnfc" media="(min-width: 1025px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1106/int_171106_WATCH_Stunning_volley_caps_team_goal/int_171106_WATCH_Stunning_volley_caps_team_goal.jpg&amp;w=64&amp;h=64&amp;scale=crop&amp;site=espnfc" media="(max-width: 767px)">
+					
+					<!--[if IE 9]></video><![endif]-->
+					<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+				</picture>
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  href="http://www.espnfc.com.au/dutch-eredivisie/11/video/3261545/watch-stunning-volley-caps-team-goal" class="common-link">WATCH: Stunning volley caps team goal</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/dutch-eredivisie/11/index">Dutch Eredivisie</a>
+				<span class="age"><time datetime="2017-11-06T02:25:50-08:00">5 days ago</time></span>
+				
+			</div>
+		</div>
+	</div>
+	
+	<a  href="http://www.espnfc.com.au/dutch-eredivisie/11/video/3261545/watch-stunning-volley-caps-team-goal" class="primary-link common-link">Read</a>
+	
+	
+
+			</div>
+		</div>
+		
+	</div><div class="home-page-group-footer"><a class="source" href="http://www.espnfc.com.au/video">VIEW MORE</a></div></div><div class="home-page-group clearfix" alt=" AUSTRALIA "><div class="home-page-group-header"><h4><a class="source" href="http://www.espnfc.com.au/australian-a-league/1308/index">AUSTRALIA</a></h4></div><div class="home-page-row clearfix">
+
+		<div class="grid-item span-1 media-media cc- common-link-root" data-content-id="3267199" data-geotarget-include="au">
+			<div class="grid-item-content">
+				
+	
+		<div class="thumbnail picture media">
+			
+			
+			<a href="http://www.espnfc.com.au/australian-a-league/1308/video/3267199/phoenix-off-the-mark-in-stunning-style">
+				
+				<picture>
+					<!--[if IE 9]><video style="display: none;"><![endif]-->
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1112/int_171112_Phoenix_off_the_mark_in_stunning_style/int_171112_Phoenix_off_the_mark_in_stunning_style.jpg&amp;w=258&amp;h=172&amp;scale=crop&amp;site=espnfc" media="(min-width: 768px) and (max-width: 1024px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1112/int_171112_Phoenix_off_the_mark_in_stunning_style/int_171112_Phoenix_off_the_mark_in_stunning_style.jpg&amp;w=306&amp;h=204&amp;scale=crop&amp;site=espnfc" media="(min-width: 1025px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1112/int_171112_Phoenix_off_the_mark_in_stunning_style/int_171112_Phoenix_off_the_mark_in_stunning_style.jpg&amp;w=64&amp;h=64&amp;scale=crop&amp;site=espnfc" media="(max-width: 767px)">
+					
+					<!--[if IE 9]></video><![endif]-->
+					<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+				</picture>
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  href="http://www.espnfc.com.au/australian-a-league/1308/video/3267199/phoenix-off-the-mark-in-stunning-style" class="common-link">Phoenix off the mark in stunning style</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/australian-a-league/1308/index">Australian A-League</a>
+				<span class="age"><time datetime="2017-11-12T00:27:24-08:00">about an hour ago</time></span>
+				
+			</div>
+		</div>
+	</div>
+	
+	<a  href="http://www.espnfc.com.au/australian-a-league/1308/video/3267199/phoenix-off-the-mark-in-stunning-style" class="primary-link common-link">Read</a>
+	
+	
+
+			</div>
+		</div>
+		
+	
+
+		<div class="grid-item span-1 media-media cc- common-link-root" data-content-id="3267198" data-geotarget-include="au">
+			<div class="grid-item-content">
+				
+	
+		<div class="thumbnail picture media">
+			
+			
+			<a href="http://www.espnfc.com.au/australian-a-league/1308/video/3267198/torres-scores-in-opening-goal-for-glory-after-smiths-mistake">
+				
+				<picture>
+					<!--[if IE 9]><video style="display: none;"><![endif]-->
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1112/int_171112_Torres_scores_in_opening_goal_for_Glory_after_Smiths_mistake/int_171112_Torres_scores_in_opening_goal_for_Glory_after_Smiths_mistake.jpg&amp;w=258&amp;h=172&amp;scale=crop&amp;site=espnfc" media="(min-width: 768px) and (max-width: 1024px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1112/int_171112_Torres_scores_in_opening_goal_for_Glory_after_Smiths_mistake/int_171112_Torres_scores_in_opening_goal_for_Glory_after_Smiths_mistake.jpg&amp;w=306&amp;h=204&amp;scale=crop&amp;site=espnfc" media="(min-width: 1025px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1112/int_171112_Torres_scores_in_opening_goal_for_Glory_after_Smiths_mistake/int_171112_Torres_scores_in_opening_goal_for_Glory_after_Smiths_mistake.jpg&amp;w=64&amp;h=64&amp;scale=crop&amp;site=espnfc" media="(max-width: 767px)">
+					
+					<!--[if IE 9]></video><![endif]-->
+					<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+				</picture>
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  href="http://www.espnfc.com.au/australian-a-league/1308/video/3267198/torres-scores-in-opening-goal-for-glory-after-smiths-mistake" class="common-link">Torres scores in opening goal for Glory after Smith's mistake</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/australian-a-league/1308/index">Australian A-League</a>
+				<span class="age"><time datetime="2017-11-12T00:19:23-08:00">about an hour ago</time></span>
+				
+			</div>
+		</div>
+	</div>
+	
+	<a  href="http://www.espnfc.com.au/australian-a-league/1308/video/3267198/torres-scores-in-opening-goal-for-glory-after-smiths-mistake" class="primary-link common-link">Read</a>
+	
+	
+
+			</div>
+		</div>
+		
+	
+
+		<div class="grid-item span-1 blog-blog cc-australia common-link-root" data-content-id="3267178">
+			<div class="grid-item-content">
+				
+	
+		<div class="thumbnail picture">
+			
+			
+			<a href="http://www.espnfc.com.au/team/australia/628/blog/post/3267178/socceroos-on-track-for-2018-world-cup-but-must-find-cutting-edge">
+				
+				<picture>
+					<!--[if IE 9]><video style="display: none;"><![endif]-->
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/photo/2017/1110/r287227_1296x729_16-9.jpg&amp;w=258&amp;h=172&amp;scale=crop&amp;site=espnfc" media="(min-width: 768px) and (max-width: 1024px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/photo/2017/1110/r287227_1296x729_16-9.jpg&amp;w=306&amp;h=204&amp;scale=crop&amp;site=espnfc" media="(min-width: 1025px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/photo/2017/1110/r287227_1296x729_16-9.jpg&amp;w=64&amp;h=64&amp;scale=crop&amp;site=espnfc" media="(max-width: 767px)">
+					
+					<!--[if IE 9]></video><![endif]-->
+					<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Escober save vs Australia 171110" />
+				</picture>
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  href="http://www.espnfc.com.au/team/australia/628/blog/post/3267178/socceroos-on-track-for-2018-world-cup-but-must-find-cutting-edge" class="common-link">Socceroos must find World Cup cutting edge</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/team/australia/628/index">World Cup playoff</a>
+				<span class="age"><time datetime="2017-11-11T16:32:00-08:00">9 hours ago</time></span>
+				<span class="author byline">Rob Brooks</span>
+			</div>
+		</div>
+	</div>
+	
+	<a  href="http://www.espnfc.com.au/team/australia/628/blog/post/3267178/socceroos-on-track-for-2018-world-cup-but-must-find-cutting-edge" class="primary-link common-link">Read</a>
+	
+	
+
+			</div>
+		</div>
+		
+	
+
+		<div class="grid-item span-1 media-media cc- common-link-root" data-content-id="3266387" data-geotarget-include="au">
+			<div class="grid-item-content">
+				
+	
+		<div class="thumbnail picture media">
+			
+			
+			<a href="http://www.espnfc.com.au/australian-a-league/1308/video/3266387/victory-and-roar-remain-win-less-this-season">
+				
+				<picture>
+					<!--[if IE 9]><video style="display: none;"><![endif]-->
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1111/int_171111_Mel_Bris_highlights/int_171111_Mel_Bris_highlights.jpg&amp;w=258&amp;h=172&amp;scale=crop&amp;site=espnfc" media="(min-width: 768px) and (max-width: 1024px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1111/int_171111_Mel_Bris_highlights/int_171111_Mel_Bris_highlights.jpg&amp;w=306&amp;h=204&amp;scale=crop&amp;site=espnfc" media="(min-width: 1025px)">
+					
+					<source srcset="http://a.espncdn.com/combiner/i/?img=/media/motion/ESPNi/2017/1111/int_171111_Mel_Bris_highlights/int_171111_Mel_Bris_highlights.jpg&amp;w=64&amp;h=64&amp;scale=crop&amp;site=espnfc" media="(max-width: 767px)">
+					
+					<!--[if IE 9]></video><![endif]-->
+					<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+				</picture>
+			
+			</a>
+			
+		</div>
+	
+	<div class="text" data-type="grid">
+		<div class="text-content">
+			
+				<h2>
+					<a  href="http://www.espnfc.com.au/australian-a-league/1308/video/3266387/victory-and-roar-remain-win-less-this-season" class="common-link">Victory and Roar remain win less this season</a>
+				</h2>
+			
+
+			
+
+			
+
+			<div class="info">
+				<a class="source" href="http://www.espnfc.com.au/a

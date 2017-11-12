@@ -1,0 +1,1085 @@
+                    <!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" ng-app="myApp"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie10 lt-ie9 lt-ie8" ng-app="myApp"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie10 lt-ie9" ng-app="myApp"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js lt-ie10" ng-app="myApp"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" ng-app="myApp"> <!--<![endif]-->
+
+
+    <head ng-controller="bmAd">
+
+  <meta name="google-site-verification" content="sCkZlzW9qPHf6TI6Gliuq1M4-QhQC-UTbH__VdHi_3A" />
+  <meta http-equiv="X-UA-Compatible" content="text/html, charset=UTF-8, IE=edge, chrome=1">
+  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+        <link rel="shortcut icon" type="image/x-icon" href="//images.tsn.ca/favicon32.ico">
+    <link rel="apple-touch-icon" href="/img/tsn/icons/apple-touch-icon.png">
+    <link rel="apple-touch-icon" href="/img/tsn/icons/apple-touch-icon-57x57.png" sizes="57x57">
+    <link rel="apple-touch-icon" href="/img/tsn/icons/apple-touch-icon-60x60.png" sizes="60x60">
+    <link rel="apple-touch-icon" href="/img/tsn/icons/apple-touch-icon-72x72.png" sizes="72x72">
+    <link rel="apple-touch-icon" href="/img/tsn/icons/apple-touch-icon-76x76.png" sizes="76x76">
+    <link rel="apple-touch-icon" href="/img/tsn/icons/apple-touch-icon-114x114.png" sizes="114x114">
+    <link rel="apple-touch-icon" href="/img/tsn/icons/apple-touch-icon-120x120.png" sizes="120x120">
+    <link rel="apple-touch-icon" href="/img/tsn/icons/apple-touch-icon-144x144.png" sizes="144x144">
+    <link rel="apple-touch-icon" href="/img/tsn/icons/apple-touch-icon-152x152.png" sizes="152x152">
+    <link rel="apple-touch-icon" href="/img/tsn/icons/apple-touch-icon-180x180.png" sizes="180x180">
+  
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, width=device-width, user-scalable = no">
+
+  
+  
+    
+    
+  
+  
+  
+
+  <!-- General OG meta tags -->
+    <meta property="og:url" content="http://www.tsn.ca/nhl/players"/>
+  <meta property="og:site_name" content="TSN"/>
+
+  
+      
+        
+            
+        
+            
+      
+                        
+                
+        
+        
+          <!-- General meta tags -->
+    <meta name="title" content="NHL Players - Players of the National Hockey League"/>
+    <meta name="description" content="The players of the National Hockey League."/>
+    <meta name="keywords" content="NHL,Players"/>
+    <!-- Non page specific OG meta tags -->
+    <meta property="og:title" content="NHL Players - Players of the National Hockey League"/>
+    <meta property="og:description" content="The players of the National Hockey League."/>
+    <meta property="og:image" content="http://www.tsn.ca/img/tsn/logos/tsn-logo.png"/>
+    <meta property="og:type" content="website"/>
+                <!-- End of meta tags -->
+
+        <meta name="robots" content="index, follow" />
+      <meta name="robots" content="ACAP allow-index" />
+  
+                            
+    
+        <title>NHL Players - Players of the National Hockey League</title>
+
+  
+    
+          	<link rel="stylesheet" href="/css/tsn/style.css?v1507230514">
+            	<link rel="stylesheet" href="/css/tsn/sports-pages.css?v1507230514">
+  
+        
+    
+    
+            	<link rel="stylesheet" href="/css/tsn/nhl.css?v1507230514">
+      
+    
+    
+    
+        <link href="//tsnimages.tsn.ca/sprite/all/24,40,48,72,80,96,120,160?cachebust" rel="stylesheet" type="text/css">
+
+        <link href="//tsnimages.tsn.ca/ImageProvider/AssetImage?seoid=tsn-sprite" rel="stylesheet" type="text/css">
+    <link href="//tsnimages.tsn.ca/ImageProvider/AssetImage?seoid=tsn-sprite-2x" rel="stylesheet" type="text/css">
+
+  
+  <script>
+  //Fix to add in IE generic stylesheet
+  if (/*@cc_on!@*/false) {
+    var head = document.head,
+        link = document.createElement('link');
+
+        link.type = 'text/css';
+        link.rel = 'stylesheet';
+        link.href = '/css/style-ie.css?v1507230514';
+
+    if (head) {
+      head.appendChild(link);
+    }
+  }
+  </script>
+
+  <script>
+    var logo = {
+      retina: window.devicePixelRatio
+    }
+
+    var gigyaLoaded = false;
+  </script>
+
+  <!--[if IE]>
+  	  	<link rel="stylesheet" href="/css/common/style-ie.css?v1507230514">
+    <![endif]-->
+  <!--[if IE 9]>
+  	  	<link rel="stylesheet" href="/css/common/style-ie9.css?v1507230514">
+    <![endif]-->
+  <!--[if IE 8]>
+  	  	<link rel="stylesheet" href="/css/common/style-ie8.css?v1507230514">
+    <![endif]-->
+  <!--[if IE 7]>
+  	  	<link rel="stylesheet" href="/css/common/style-ie7.css?v1507230514">
+    <![endif]-->
+  <!--[if IE 6]>
+  	  	<link rel="stylesheet" href="/css/common/style-ie7.css?v1507230514">
+    <![endif]-->
+
+  <!--[if lt IE 9]>
+     	<script type="text/javascript" src="/js/bellmedia/vendor/selectivizr/selectivizr-min.js?v1507230514"></script>
+    <![endif]-->
+
+      	<script type="text/javascript" src="/js/bellmedia/vendor/jquery/jquery.min.js?v1507230514"></script>
+  
+      	<script type="text/javascript" src="/js/bellmedia/vendor/jquery/jquery-ui-1.10.4.custom.min.js?v1507230514"></script>
+      	<script type="text/javascript" src="/js/bellmedia/vendor/jquery/jquery.ui.touch-punch.min.js?v1507230514"></script>
+  
+  <!--[if lt IE 9]>
+      	<script type="text/javascript" src="/js/bellmedia/vendor/html5shiv/html5shiv.min.js?v1507230514"></script>
+    <![endif]-->
+
+        
+        <link rel="canonical" href="http://www.tsn.ca/nhl/players" />
+  
+  
+        
+
+    <script>
+    //Ad zones variables
+    var adSite = "ctv.tsn.ca";
+    var adZone = "NHL";
+    var subPage = "Players";
+    var kruxId = "IjHlQISs";
+  </script>
+
+    
+  
+  
+    <script>
+    //Ad zone variable for deeper nested pages (Game Pages, Team Pages, Player Pages)
+    var subPageType = "";
+  </script>
+      <script>
+     (function(){function t(){for(var a=[8],e=1;1>=e;e++)a.push(8+e),a.push(8-e);a=a[Math.floor(Math.random()*a.length)];return{b:a,a:0==Math.floor(Math.random()*a)}}function k(a){var e=a=a.replace(":","");try{for(var b=0;100>b&&(a=decodeURIComponent(a),e!=a)&&!a.match(/^http(s)?\:/);b++)e=a}catch(c){}return a.replace(/(^\s+|\s+$)/g,"")}try{if(!location||!location.hostname||!location.pathname)return!1;var c=document.location.hostname.replace(/^www\./,""),u=function(){for(var a,b=document.getElementsByTagName("meta"),
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       c,d=0,f=b.length;d<f;d++)if(c=b[d],"og:title"===c.getAttribute("property")){a=c.getAttribute("content");break}a||(a=document.title||"Untitled");return a}(),b={},b=function(a,b,c){a.l1=b;a.l2=c;a.l3="__page__";a.l4="-";return a}(b,c,u),l=(new Date).getTime(),m=Math.floor(Math.random()*Math.pow(10,12)),d,f;f=t();f.a?d=f.b:d=0;b.zmoatab_cm=d;b.t=l;b.de=m;b.zMoatAB_SNPT=!0;var g;d?g=d:g=1;var n;n=f?f.a?!0:!1:!0;var c=[],p=[k(b.l1),k(b.l2),k(b.l3),k(b.l4)].join(":"),v="https://go0trl9osc3b-a.akamaihd.net/z.gif?e=17&d="+
+                encodeURIComponent(p)+"&de="+m+"&t="+l+"&i=BELLMEDIACONTENT1&cm="+g+"&mp=1&ac=1&pl=1&bq=10&vc=2&cs=0",w="https://px.moatads.com/pixel.gif?e=17&d="+encodeURIComponent(p)+"&de="+m+"&t="+l+"&i=BELLMEDIACONTENT1&cm="+g+"&mp=0&ac=1&pl=1&bq=10&ad_type=img&vc=2&cs=0",x="https://px.moatads.com/pixel.gif?e=17&d="+encodeURIComponent(p)+"&de="+m+"&t="+l+"&i=BELLMEDIACONTENT1&cm="+g+"&ku=1&ac=1&pl=1&bq=10&ad_type=img&vc=2&cs=0";n&&((new Image).src=v,(new Image).src=w);for(var q in b)c.push(q+"="+encodeURIComponent(b[q]));
+            var c=c.join("&"),c=c+"&vc=2",h=document.createElement("script");h.type="text/javascript";h.async=!0;n&&(h.onerror=function(){(new Image).src=x});var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(h,r);h.src="https://z.moatads.com/bellmedia966Bwny69/moatcontent.js#"+c}catch(a){try{var y="//pixel.moatads.com/pixel.gif?e=24&d=data%3Adata%3Adata%3Adata&i=MOATCONTENTABSNIPPET1&vc=2&ac=1&k="+encodeURIComponent(a)+"&j="+encodeURIComponent(document.referrer)+"&cs="+(new Date).getTime();
+            (new Image).src=y}catch(e){}}})();
+  </script>
+  
+
+  <!-- Google Ad Script -->
+  <script type="text/javascript" src="//metrics.ctvdigital.net/comscore/beacon.js"></script>
+  <script type="text/javascript">
+    var sraEnabled = true;
+
+    var gptadslots = [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+      var gads = document.createElement('script');
+      gads.async = true; gads.type = 'text/javascript';
+      var useSSL = 'https:' == document.location.protocol;
+      gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+      var node = document.getElementsByTagName('script')[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+
+
+      </script>
+
+    <script type="text/javascript" src="https://js-sec.indexww.com/ht/htw-bell-news.js"></script>
+
+  <script type="text/javascript">
+     googletag.cmd.push(function() {
+        if (typeof window.headertag === 'undefined' ||
+           window.headertag.apiReady !== true) {
+           window.headertag = googletag;
+        }
+     });
+     //Init Krux
+    var kruxLoaded = false;
+
+    //This sets the adzone
+
+    //Content Specific Ad
+    if ((typeof window.contentSpecificAd !== 'undefined') && (window.contentSpecificAd !== "")) {
+        var adpg = window.contentSpecificAd;
+    }
+
+    //Homepage reset
+    //Checks for null values or generic landing pages
+    else if(adZone == "") 
+    {
+        adZone = "home";
+        subPage = "";
+        subPageType = "";
+
+        var adpg = adZone;
+    }
+    else if(adZone == "Subject Landing Page")
+    {
+        adZone = "home";
+        subPage = "";
+        subPageType = "";
+
+        var adpg = adZone;
+    }
+    else if(adZone == "Results Page")
+    {
+        adZone = "home";
+        subPage = "";
+        subPageType = "";
+
+        var adpg = adZone;
+    }
+    else if(adZone == "Video Playlist")
+    {
+        adZone = "home";
+        subPage = "";
+        subPageType = "";
+
+        var adpg = adZone;
+    } else {        
+        // If subpage exists
+        if(subPage != ""){
+            subPage = "/"+subPage;
+
+            if(adZone == "Radio"){
+                if(subPageType == ""){
+                    subPage = subPage+"/home";
+                }
+            }
+
+        } else {
+            // Otherwise if it's not the article pages then it's the homepage
+            if(adZone == "TV" || adZone == "Watch" || adZone == "Live") {
+                subPage = "";
+            } else if (adZone !== "Article") {
+                subPage = "/home";                
+            } 
+        }
+
+        //Adds second level sub page (Game Pages, Team Pages, Player Pages)
+        if(subPageType != ""){
+            subPageType = "/"+subPageType;
+        }
+
+        //Sets ad zone variable
+        if(adZone == "" || adZone == undefined){
+            adZone = "home";
+            var adpg = adZone;
+        } else {
+            var adpg = adZone+subPage+subPageType; 
+        }  
+    }
+
+    //Replace anything other than digits, word characters, underscores, and forward slashes with underscores
+    adpg = adpg.replace(/[^\w\/]/gi, '_');
+
+    //Ad Variables
+    var ad1 = {
+        adunit: "/5479/" + adSite + "/" + adpg,
+        size: "[728,90],[970,90],[970,250]",
+        divid: "leaderboard-ad",
+        slot: 1
+
+    },
+
+        ad2 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[300,250],[300,600],[300,1050]",
+            divid: "bigbox-ad",
+            slot: 2
+
+        },
+
+        ad3 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[160,600]",
+            divid: "vertical-ad",
+            slot: 3
+
+        },
+
+        ad4 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[1000,250]",
+            divid: "billboard-ad",
+            slot: 1
+
+        },
+
+        oopad = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            divid: "Adoop",
+            slot: 4
+        },
+        ad5 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[320,50]",
+            divid: "leaderboard-ad",
+            slot: 1
+        },
+        ad6 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[1000,45]",
+            divid: "small-billboard-ad",
+            slot: 1
+
+        },
+        ad7 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[180,40]",
+            divid: "nav-ad",
+            slot: 5
+
+        },
+        ad8 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[728,90],[970,90],[970,250]",
+            divid: "apple-leaderboard-ad",
+            slot: 1
+
+        },
+                ad9 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[300,250],[300,600],[300,1050]",
+            divid: "second-bigbox-ad",
+            slot: 2
+
+        },
+        
+        ad10 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[85,24]",
+            divid: "scoreboard-ad",
+            slot: 6
+
+        },
+        ad11 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[100,30]",
+            divid: "ticker-ad",
+            slot: 7
+        },
+        ad12 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[300,100]",
+            divid: "currency-converter-ad",
+            slot: 8
+        };
+        // //Desktop View
+        if(kruxLoaded == false){
+          krux();
+        }
+
+
+    //Krux Function
+    function krux() {
+        window.Krux || ((Krux = function() {
+            Krux.q.push(arguments)
+        }).q = []);
+        (function() {
+            var k = document.createElement('script');
+            k.type = 'text/javascript';
+            k.async = true;
+            var m, src = (m = location.href.match(/\bkxsrc=([^&]+)/)) && decodeURIComponent(m[1]);
+            k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+                (location.protocol === "https:" ? "https:" : "http:") + "//cdn.krxd.net/controltag?confid=" + kruxId;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(k, s);
+        }());
+
+        window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+            (function(){
+            function retrieve(n){
+            var m, k='kx'+n; 
+            if (window.localStorage){
+            return window.localStorage[k] || "";
+            } else if (navigator.cookieEnabled) {
+            m = document.cookie.match(k+'=([^;]*)');
+            return (m && unescape(m[1])) || "";
+            }   else {
+                    return '';
+                    }
+            }
+            Krux.user = retrieve('user');
+            Krux.segments = retrieve('segs') ? retrieve('segs').split(',') : []; 
+        // DFP Premium Interchange 
+            var dfpp = []; 
+            if (Krux.user) {
+            dfpp.push('u=' + Krux.user);
+            }
+            for (var i = 0; i < Krux.segments.length; i++ )
+            {
+            dfpp.push('ksgmnt=' + Krux.segments[i]);
+            }
+
+            Krux.dfppKeyValues = dfpp.length ? dfpp.join(';') + ';' : ''; })();
+
+            kruxLoaded = true;
+    }
+
+    var homepage = true;
+    var section = "NHL";
+    if(section != ""){
+      homepage = false;
+    }
+    
+  </script>
+
+</head>      <body>
+        
+    <div class="top-container">
+      <div class="main-header">
+        <div class='scoreboard-wrapper'>
+          
+                  
+    
+  
+    
+  
+    
+    
+        <script>
+    var scoreboard = {
+        webApiUrl: "//stats.tsn.ca/GET/urn:tsn:%s:scoreboard?type=json",
+		updateInterval: "10000 ",
+		gamePageUrl: "/nhl/game/%s",
+		retina: window.devicePixelRatio
+	}
+</script>
+
+<script>
+    var currentSport = "nhl";
+    var currentSportUrl = "nhl";
+    var currentSportDisplayName = "nhl";
+</script>
+
+<section class='scoreboard ' ng-controller="MainCtrl">
+	<div class="scoreboard-sports-toggle" ng-class="{ 'overflow' : ! showSports }" ng-cloak>
+    	<span ng-click="showSports = ! showSports"><span class="selectedSport" ng-show="currentSport">{{ currentSportDisplayName }}</span><span class="dropdown-arrow"></span></span>
+        <ul class="sports-dropdown" ng-class="{ 'hidden': ! showSports }">
+    											<li class="active" ng-click="changeSport('nhl', 'nhl', 'nhl'); showSports = ! showSports">nhl</li>
+				            									<li  ng-click="changeSport('nfl', 'nfl', 'nfl'); showSports = ! showSports">nfl</li>
+				            									<li  ng-click="changeSport('cfl', 'cfl', 'cfl'); showSports = ! showSports">cfl</li>
+				            									<li  ng-click="changeSport('mls', 'soccer/mls', 'mls'); showSports = ! showSports">mls</li>
+				            									<li  ng-click="changeSport('nba', 'nba', 'nba'); showSports = ! showSports">nba</li>
+				                    </ul>
+    </div>
+
+    <div class="scoreboard-arrow scoreboard-left"></div>
+    <div class="scoreboard-scores-wrapper">
+        <div class="preloader-white" ng-hide="dataLoaded"></div>
+        <div class="scoreboard-scores" ng-cloak ng-hide="!dataLoaded">
+            <ul class="scoreboard-game-list desktop {{currentSport}}" ng-if="currentSport == 'nfl' || currentSport == 'cfl' || currentSport == 'mls'">
+                    <li
+                        class="game-date"
+                        ng-repeat-start="day in Days track by $index"
+                        ng-class="{'active': day.isCurrentWeek, 'game-week': currentSport == 'nfl' || currentSport == 'cfl' || currentSport == 'mls', 'preseason': day.SeasonType.indexOf('pre-') > -1}"
+                        scoreboard-game-date
+                        ng-cloak></li>
+
+                <li class="game-score {{currentSport}}" ng-repeat-end ng-repeat="game in day.Games track by game.Id" jq-slider-game ng-cloak>
+                    <div scoreboard-game-score></div>
+                </li>
+            </ul>
+
+            <ul class="scoreboard-game-list desktop {{currentSport}}" ng-if="currentSport != 'nfl' && currentSport != 'cfl' && currentSport != 'mls'">
+                <li
+                    class="game-date"
+                    ng-repeat-start="day in Days track by day.Date"
+                    ng-class="{'active': day.IsCurrentDay, 'game-week': currentSport == 'nfl' || currentSport == 'cfl' || currentSport == 'mls', 'preseason': day.SeasonType.indexOf('pre-') > -1}"
+                    scoreboard-game-date
+                    ng-cloak></li>
+                <li class="game-score {{currentSport}}" ng-repeat-end ng-repeat="game in day.Games track by game.Id" jq-slider-game ng-cloak>
+                    <div scoreboard-game-score></div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="scoreboard-arrow scoreboard-right"></div>
+        <div class="scoreboard-full-scores">
+        <span><a href="/{{currentSportUrl}}/scores">Full<br>Scores</a></span>
+    </div>
+
+        <div class="scores-nav-mobile">
+        <div class="scoreboard-mobile-header">
+            <h3>Scoreboard</h3>
+            <div class="scoreboard-sports-toggle" ng-class="{ 'overflow' : ! showSports }" ng-cloak>
+                <span ng-click="showSports = ! showSports">
+                    <span class="selectedSport" ng-show="currentSport">{{ currentSportDisplayName }}</span>
+                    <span class="dropdown-arrow"></span>
+                </span>
+                <ul class="sports-dropdown" ng-class="{ 'hidden': ! showSports }">
+            		        				        					<li class="active" ng-click="changeSport('nhl', 'nhl', 'nhl'); showSports = ! showSports">nhl</li>
+                                                    				        					<li  ng-click="changeSport('nfl', 'nfl', 'nfl'); showSports = ! showSports">nfl</li>
+                                                    				        					<li  ng-click="changeSport('cfl', 'cfl', 'cfl'); showSports = ! showSports">cfl</li>
+                                                    				        					<li  ng-click="changeSport('mls', 'soccer/mls', 'mls'); showSports = ! showSports">mls</li>
+                                                    				        					<li  ng-click="changeSport('nba', 'nba', 'nba'); showSports = ! showSports">nba</li>
+                                                            </ul>
+            </div>
+        </div>
+        <div class="scoreboard-game-list mobile">
+                        <ul class="date-list" ng-if="currentSport == 'nfl' || currentSport == 'cfl' || currentSport == 'mls'">
+                <li class="game-date" ng-repeat="day in Days track by $index" ng-if="$index <3" ng-class="{'active': day.isCurrentWeek}" ng-click="mobDateClicked($index)" scoreboard-game-date></li>
+            </ul>
+            <ul class="date-list" ng-if="currentSport != 'nfl' && currentSport != 'cfl' && currentSport != 'mls'">
+                <li class="game-date" ng-repeat="day in Days track by day.Date" ng-if="$index <3" ng-class="{'active': day.IsCurrentDay}" ng-click="mobDateClicked($index)" scoreboard-game-date></li>
+            </ul>
+            <div class="game-lists" ng-if="currentSport == 'nfl' || currentSport == 'cfl' || currentSport == 'mls'">
+                <ul class="game-list" ng-repeat="day in Days track by $index" ng-class="{'active': day.isCurrentWeek }">
+                    <li class="game-score" ng-repeat="game in day.Games track by game.Id" ng-cloak scoreboard-game-score></li>
+                </ul>
+            </div>
+            <div class="game-lists" ng-if="currentSport != 'nfl' && currentSport != 'cfl' && currentSport != 'mls'">
+                <ul class="game-list" ng-repeat="day in Days track by day.Date" ng-class="{'active': day.IsCurrentDay }">
+                    <li class="game-score" ng-repeat="game in day.Games track by game.Id" ng-cloak scoreboard-game-score></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Scoreboard Game Date Markup -->
+<script type="text/ng-template" id="scoreboard-game-date.html">
+    <!-- NFL Date Cells -->
+    <div class="date" ng-if="currentSport == 'nfl'">
+        <div class="season" ng-if="day.SeasonType.indexOf('pre-') > -1">PRESEASON</div>
+        <strong ng-if="day.Week < 18">WEEK</strong>
+        <div class="month-daynumber" ng-if="day.Week < 18">{{day.Week}}</div>
+
+        <strong ng-if="day.Week == 18">WC</strong>
+        <strong ng-if="day.Week == 19">DIV</strong>
+        <strong ng-if="day.Week == 20">CONF</strong>
+        <div class="month-daynumber" ng-if="day.Week > 17 && day.Week < 20">Round</div>
+        <div class="month-daynumber" ng-if="day.Week == 20">CHAMP</div>
+
+        <strong ng-if="day.Week == 21">PRO</strong>
+        <strong ng-if="day.Week == 22">SUPER</strong>
+        <div class="month-daynumber" ng-if="day.Week > 20">BOWL</div>
+    </div>
+    <!-- CFL Date Cells -->
+    <div class="date" ng-if="currentSport == 'cfl'">
+        <div class="season" ng-if="day.SeasonType.indexOf('pre-') > -1">PRESEASON</div>
+
+        <strong ng-if="day.Week < 21">WEEK</strong>
+        <div class="month-daynumber" ng-if="day.Week < 21">{{day.Week}}</div>
+
+        <strong ng-if="day.Week == 21 || day.Week == 22">DIV</strong>
+        <div class="month-daynumber" ng-if="day.Week == 21">SEMIS</div>
+        <div class="month-daynumber" ng-if="day.Week == 22">FINALS</div>
+
+        <strong ng-if="day.Week == 23">GREY</strong>
+        <div class="month-daynumber" ng-if="day.Week == 23">CUP</div>
+    </div>
+    <!-- MLS Date Cells -->
+    <div class="date" ng-if="currentSport == 'mls'">
+        <!-- Regular Season Week cell -->
+        <strong ng-if="day.Games[0].Type == 'RegularSeason' || day.Games[0].TypeDetails == 'All-Star'">WEEK</strong>
+        <div class="month-daynumber" ng-if="day.Games[0].Type == 'RegularSeason' || day.Games[0].TypeDetails == 'All-Star'">{{day.Week}}</div>
+
+        <!-- PostSeason Date cells -->
+        <strong ng-if="day.Games[0].TypeDetails && day.Games[0].Type != 'RegularSeason' && day.Games[0].TypeDetails != 'All-Star'">{{day.Games[0].TypeDetails | split:' ':0}}</strong>
+        <div class="month-daynumber" ng-if="day.Games[0].TypeDetails && day.Games[0].Type != 'RegularSeason' && day.Games[0].TypeDetails != 'All-Star'">{{day.Games[0].TypeDetails | split:' ':1}}</div>
+
+    </div>
+    <div class="date" ng-if="currentSport != 'nfl' || currentSport != 'cfl' || currentSport == 'euro'">
+        <strong>{{day.Date | amDateFormat:'ddd'}}</strong>
+        <div class="month-daynumber">{{day.Date | amDateFormat:'MMM DD'}}</div>
+    </div>
+</script>
+
+<!-- Scoreboard Game Score Markup -->
+<script type="text/ng-template" id="scoreboard-game-score.html">
+    <a ng-href="/{{currentSportUrl}}/game/{{game.Id || game.SeoId}}">
+        <div ng-if="game.State == 'PreGame'">
+            <div id="{{ game.Id }}" class="game-status pre-game">
+                <div class="status" ng-if="game.TBA == 'true'">TBA</div>
+                <div class="status" ng-if="game.TBA == 'false' || !game.TBA || game.TBA == ''">{{ game.StateDetails }}</div>
+                <div class="game-station" ng-if="game.Type != 'PostSeason'">{{ ::game.Channel }}</div>
+                <div class="team-record final" ng-if="currentSport != 'wjhc' && currentSport != 'nfl' && currentSport != 'cfl' && currentSport != 'euro' && currentSport != 'mls'" ng-switch on="game.Type">
+                    <div ng-switch-when="Spring"></div>
+                    <div ng-switch-when="PreSeason"></div>
+                    <div ng-switch-when="PostSeason" ng-switch on="currentSport">
+                            <span ng-if="!game.Away.SeriesWin && !game.Home.SeriesWin || game.Away.SeriesWin == game.Home.SeriesWin">Series Tied</span>
+                            <span ng-switch-default ng-if="game.Away.SeriesWin > game.Away.SeriesLost && game.Away.SeriesWin < 4">{{ game.Away.Team.Acronym }} Leads</span>
+                            <span ng-switch-default ng-if="game.Home.SeriesWin == 4">{{ game.Home.Team.Acronym }} Wins</span>
+                            <span ng-switch-default ng-if="game.Away.SeriesWin == 4">{{ game.Away.Team.Acronym }} Wins</span>
+                            <span ng-switch-default ng-if="game.Home.SeriesWin > game.Home.SeriesLost && game.Home.SeriesWin < 4">{{ game.Home.Team.Acronym }} Leads</span>
+
+                            <span
+                                ng-switch-when="mlb"
+                                ng-if="(game.Away.SeriesWin > game.Away.SeriesLost && game.TypeDetails != 'Division Playoff' && game.Away.SeriesWin < 4) || (game.Away.SeriesWin > game.Away.SeriesLost && game.TypeDetails == 'Division Playoff' && game.Away.SeriesWin < 3)">{{ game.Away.Team.Acronym }} Leads</span>
+                            <span
+                                ng-switch-when="mlb"
+                                ng-if="(game.Home.SeriesWin > game.Home.SeriesLost && game.TypeDetails != 'Division Playoff' && game.Home.SeriesWin < 4) || (game.Home.SeriesWin > game.Home.SeriesLost && game.TypeDetails == 'Division Playoff' && game.Home.SeriesWin < 3)">{{ game.Home.Team.Acronym }} Leads</span>
+                            <span ng-switch-when="mlb" ng-if="(game.Home.SeriesWin == 4 && game.TypeDetails != 'Division Playoff') || (game.Home.SeriesWin == 3 && game.TypeDetails == 'Division Playoff') || (game.TypeDetails == '' && game.Home.SeriesWin == 1)">{{ game.Home.Team.Acronym }} Wins</span>
+                            <span ng-switch-when="mlb" ng-if="(game.Away.SeriesWin == 4 && game.TypeDetails != 'Division Playoff') || (game.Away.SeriesWin == 3 && game.TypeDetails == 'Division Playoff') || (game.TypeDetails == '' && game.Away.SeriesWin == 1)">{{ game.Away.Team.Acronym }} Wins</span>
+
+                            <span class="record playoffs" ng-if="!game.Away.SeriesWin && !game.Home.SeriesWin">0-0</span>
+                            <span class="record playoffs" ng-if="game.Away.SeriesWin == game.Away.SeriesLost">{{game.Home.SeriesWin}}-{{game.Away.SeriesWin}}</span>
+                            <span class="record playoffs" ng-if="game.Away.SeriesWin > game.Away.SeriesLost">{{game.Away.SeriesWin}}-{{game.Home.SeriesWin}}</span>
+                            <span class="record playoffs" ng-if="game.Home.SeriesWin > game.Home.SeriesLost">{{game.Home.SeriesWin}}-{{game.Away.SeriesWin}}</span>
+                    </div>
+                    <div ng-switch-default></div>
+                </div>
+            </div>
+            <div class="game-teams">
+                <div class="team-1">
+                    <div class="team-name">
+                        <div ng-if="currentSport != 'wjhc' && currentSport != 'wmhc' && currentSport != 'wwhc' && currentSport != 'wch' && currentSportSoccer == 'false'" class="logo" team-class team-name="{{ ::game.Away.Team.SeoId }}" logo-size="24" sport="{{currentSport}}"></div>
+                        <div ng-if="currentSport == 'wjhc' || currentSport == 'wmhc' || currentSport == 'wwhc' || currentSport == 'wch' && currentSportSoccer == 'false'" class="logo flags-logo" team-class team-name="{{ ::game.Away.Team.SeoId }}" logo-size="24" sport="flags"></div>
+                        <span ng-if="currentSportSoccer == 'false'">{{ ::game.Away.Team.Acronym }}</span>
+
+                                                <div ng-if="currentSport != 'euro' && currentSportSoccer == 'true'" class="logo" team-class team-name="{{ ::game.Home.Team.SeoId }}" logo-size="24" sport="{{currentSport}}" original-league="{{game.Home.OriginalLeague}}"></div>
+                        <div ng-if="currentSport == 'euro' && currentSportSoccer == 'true'" class="logo flags-logo" team-class team-name="{{ ::game.Home.Team.SeoId }}" logo-size="24" sport="flags"></div>
+                        <span ng-if="currentSportSoccer == 'true'">{{ ::game.Home.Team.Acronym }}</span>
+                    </div>
+                </div>
+                <div class="team-2">
+                    <div class="team-name">
+                        <div ng-if="currentSport != 'wjhc' && currentSport != 'wmhc' && currentSport != 'wwhc' && currentSport != 'wch' && currentSportSoccer == 'false'" class="logo" team-class team-name="{{ ::game.Home.Team.SeoId }}" logo-size="24" sport="{{currentSport}}"></div>
+                        <div ng-if="currentSport == 'wjhc' || currentSport == 'wmhc' || currentSport == 'wwhc' || currentSport == 'wch' && currentSportSoccer == 'false'" class="logo flags-logo" team-class team-name="{{ ::game.Home.Team.SeoId }}" logo-size="24" sport="flags"></div>
+                        <span ng-if="currentSportSoccer == 'false'">{{ ::game.Home.Team.Acronym }}</span>
+
+                                                <div ng-if="currentSport != 'euro' && currentSportSoccer == 'true'" class="logo" team-class team-name="{{ ::game.Away.Team.SeoId }}" logo-size="24" sport="{{currentSport}}" original-league="{{game.Away.OriginalLeague}}"></div>
+                        <div ng-if="currentSport == 'euro' && currentSportSoccer == 'true'" class="logo flags-logo" team-class team-name="{{ ::game.Away.Team.SeoId }}" logo-size="24" sport="flags"></div>
+                        <span ng-if="currentSportSoccer == 'true'">{{ ::game.Away.Team.Acronym }}</span>
+                    </div>
+                </div>
+                <div class="team-record" ng-if="currentSport != 'wjhc'" ng-switch on="game.Type">
+                    <div ng-switch-when="Spring"></div>
+                    <div ng-switch-when="PreSeason"></div>
+                    <div ng-switch-when="PostSeason"></div>
+                    <div ng-switch-default ng-if="currentSportSoccer == 'false'">
+                        <span class="record">{{::game.Away.Record}}
+                            <span streak-initial streak="{{::game.Away.Streak}}" ng-if="game.Away.Streak"></span>
+                        </span>
+                        <span class="record">{{::game.Home.Record}}
+                            <span streak-initial streak="{{::game.Home.Streak}}" ng-if="game.Home.Streak"></span>
+                        </span>
+                    </div>
+                                        <div ng-switch-default ng-if="currentSportSoccer == 'true'">
+                        <span class="record">{{::game.Home.Record}}
+                            <span streak-initial streak="{{::game.Home.Streak}}" ng-if="game.Home.Streak"></span>
+                        </span>
+                        <span class="record">{{::game.Away.Record}}
+                            <span streak-initial streak="{{::game.Away.Streak}}" ng-if="game.Away.Streak"></span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div ng-if="game.State == 'InProgress'">
+            <div id="{{ game.Id }}" class="game-status live" ng-if="game.State == 'InProgress'">
+                <div class="status">{{ game.StateDetails }}</div>
+                <div class="game-station">{{ game.Channel }}</div>
+            </div>
+            <div class="game-teams">
+                <div class="team-1">
+                    <div class="team-name" >
+                        <div ng-if="currentSport != 'wjhc' && currentSport != 'wmhc' && currentSport != 'wwhc' && currentSport != 'wch' && currentSportSoccer == 'false'" class="logo" team-class team-name="{{ game.Away.Team.SeoId }}" logo-size="24" sport="{{currentSport}}"></div>
+                        <div ng-if="currentSport == 'wjhc' || currentSport == 'wmhc' || currentSport == 'wwhc' || currentSport == 'wch' && currentSportSoccer == 'false'" class="logo flags-logo" team-class team-name="{{ game.Away.Team.SeoId }}" logo-size="24" sport="flags"></div>
+                        <span ng-if="currentSportSoccer == 'false'">{{ game.Away.Team.Acronym }}</span>
+
+                                                <div ng-if="currentSport != 'euro' && currentSportSoccer == 'true'" class="logo" team-class team-name="{{ game.Home.Team.SeoId }}" logo-size="24" sport="{{currentSport}}" original-league="{{game.Home.OriginalLeague}}"></div>
+                        <div ng-if="currentSport == 'euro' && currentSportSoccer == 'true'" class="logo flags-logo" team-class team-name="{{ game.Home.Team.SeoId }}" logo-size="24" sport="flags"></div>
+                        <span ng-if="currentSportSoccer == 'true'">{{ game.Home.Team.Acronym }}</span>
+                        <div class="redcard-marker" ng-class="{'active': game.Home.RedCards > 0 }" ng-if="game.Home.RedCards && game.Home.RedCards > 0">{{game.Home.RedCards}}</div>
+
+                        <span class="icon-possession-marker" ng-class="{'active': game.Away.Linescore.HasPossession}" ng-if="currentSport == 'nfl' || currentSport == 'cfl'"></span>
+                        <span class="icon-possession-marker" ng-class="{'active': game.Away.AtBat }" ng-if="currentSport == 'mlb'"></span>
+                        <span class="nhl-strength" ng-class="{'active': game.Away.Linescore.HasPowerplay == true}" ng-show="game.Away.Linescore.HasPowerplay == true">PP {{game.Away.Linescore.StrengthType}}</span>
+                    </div>
+
+                    <div class="team-score" ng-if="currentSport == 'mlb'">
+                        <span score-change="{{ game.Away.Runs }}" animation="flash">{{ game.Away.Runs }}</span>
+                    </div>
+                    <div class="team-score" ng-if="currentSport != 'mlb' && currentSportSoccer == 'false'">
+                        <span score-change="{{ game.Away.Linescore.Score }}" animation="flash">{{ game.Away.Linescore.Score }}</span>
+                        <span ng-if="game.Away.hasShootOut == true">({{ game.Away.ShootOutGoals }})</span>
+                    </div>
+
+                                        <div class="team-score" ng-if="currentSportSoccer == 'true'">
+                        <span score-change="{{ game.Home.Linescore.Score }}" animation="flash">{{ game.Home.Linescore.Score }}</span>
+                        <span ng-if="game.Home.hasShootOut == true">({{ game.Home.ShootOutGoals }})</span>
+                    </div>
+
+                </div>
+                <div class="team-2">
+                    <div class="team-name">
+                        <div ng-if="currentSport != 'wjhc' && currentSport != 'wmhc' && currentSport != 'wwhc' && currentSport != 'wch' && currentSportSoccer == 'false'" class="logo" team-class team-name="{{ game.Home.Team.SeoId }}" logo-size="24" sport="{{currentSport}}"></div>
+                        <div ng-if="currentSport == 'wjhc' || currentSport == 'wmhc' || currentSport == 'wwhc' || currentSport == 'wch' && currentSportSoccer == 'false'" class="logo flags-logo" team-class team-name="{{ game.Home.Team.SeoId }}" logo-size="24" sport="flags"></div>
+                        <span ng-if="currentSportSoccer == 'false'">{{ game.Home.Team.Acronym }}</span>
+
+                                                <div ng-if="currentSport != 'euro' && currentSportSoccer == 'true'" class="logo" team-class team-name="{{ game.Away.Team.SeoId }}" logo-size="24" sport="{{currentSport}}" original-league="{{game.Away.OriginalLeague}}"></div>
+                        <div ng-if="currentSport == 'euro' && currentSportSoccer == 'true'" class="logo flags-logo" team-class team-name="{{ game.Away.Team.SeoId }}" logo-size="24" sport="flags"></div>
+                        <span ng-if="currentSportSoccer == 'true'">{{ game.Away.Team.Acronym }}</span>
+                        <div class="redcard-marker" ng-class="{'active': game.Away.RedCards > 0 }" ng-if="game.Away.RedCards && game.Away.RedCards > 0">{{game.Away.RedCards}}</div>
+
+                        <span class="icon-possession-marker" ng-class="{'active': game.Home.Linescore.HasPossession}" ng-if="currentSport == 'nfl' || currentSport == 'cfl'"></span>
+                        <span class="icon-possession-marker" ng-class="{'active': game.Home.AtBat }" ng-if="currentSport == 'mlb'"></span>
+                        <span class="nhl-strength" ng-class="{'active': game.Home.Linescore.HasPowerplay == true}" ng-show="game.Home.Linescore.HasPowerplay == true">PP {{game.Home.Linescore.StrengthType}}</span>
+                    </div>
+
+                    <div class="team-score" ng-if="currentSport == 'mlb'">
+                        <span score-change="{{ game.Home.Runs }}" animation="flash">{{ game.Home.Runs }}</span>
+                    </div>
+                    <div class="team-score" ng-if="currentSport != 'mlb' && currentSportSoccer == 'false'">
+                        <span score-change="{{ game.Home.Linescore.Score }}" animation="flash">{{ game.Home.Linescore.Score }}</span>
+                        <span ng-if="game.Home.hasShootOut == true">({{ game.Home.ShootOutGoals }})</span>
+                    </div>
+
+                                        <div class="team-score" ng-if="currentSportSoccer == 'true'">
+                        <span score-change="{{ game.Away.Linescore.Score }}" animation="flash">{{ game.Away.Linescore.Score }}</span>
+                        <span ng-if="game.Away.hasShootOut == true">({{ game.Away.ShootOutGoals }})</span>
+                    </div>
+                </div>
+            </div>
+            <div class="mlb-bases" ng-if="currentSport == 'mlb' && game.Type !='Spring'">
+                <div ng-repeat="base in game.Situation.BaseRunners track by $index" class="mlb-base mlb-base-{{$index + 1}}" ng-class="{'active': base}"></div>
+                <div class="mlb-status">{{ game.Situation.Outs }} Out</div>
+            </div>
+            <div
+                class="nfl-possession"
+                ng-if="currentSport == 'nfl' || currentSport == 'cfl'"
+                ng-hide="game.Situation.Downs == null || !game.Situation.Downs || game.Situation.Downs == '' || game.Situation.Distance == null || !game.Situation.Distance || game.Situation.Distance == '' ">
+                <div class="nfl-status ball-on">{{ game.Situation.BallOn }}</div>
+                <div class="nfl-status distance-downs">{{ game.Situation.Downs }} & {{ game.Situation.Distance }}</div>
+            </div>
+        </div>
+        <div ng-if="game.State == 'Final'">
+            <div id="{{ game.Id }}" class="game-status post-game" ng-if="game.State == 'Final'">
+                <div class="status">{{ game.StateDetails }}</div>
+                <div class="team-record final" ng-if="currentSport != 'wjhc' && currentSport != 'nfl' && currentSport != 'cfl' && currentSport != 'mls'" ng-switch on="game.Type">
+                    <div ng-switch-when="Spring"></div>
+                    <div ng-switch-when="PreSeason"></div>
+                    <div ng-switch-when="PostSeason" ng-switch on="currentSport">
+
+                        <span ng-if="!game.Away.SeriesWin && !game.Home.SeriesWin || game.Away.SeriesWin == game.Home.SeriesWin">Series Tied</span>
+
+                        <span ng-switch-default ng-if="game.Away.SeriesWin > game.Away.SeriesLost && game.Away.SeriesWin < 4">{{ game.Away.Team.Acronym }} Leads</span>
+                        <span ng-switch-default ng-if="game.Home.SeriesWin == 4">{{ game.Home.Team.Acronym }} Wins</span>
+                        <span ng-switch-default ng-if="game.Away.SeriesWin == 4">{{ game.Away.Team.Acronym }} Wins</span>
+                        <span ng-switch-default ng-if="game.Home.SeriesWin > game.Home.SeriesLost && game.Home.SeriesWin < 4">{{ game.Home.Team.Acronym }} Leads</span>
+
+                        <span
+                            ng-switch-when="mlb"
+                            ng-if="(game.Away.SeriesWin > game.Away.SeriesLost && game.TypeDetails != 'Division Playoff' && game.Away.SeriesWin < 4 && game.TypeDetails != '') || (game.Away.SeriesWin > game.Away.SeriesLost && game.TypeDetails == 'Division Playoff' && game.Away.SeriesWin < 3)">{{ game.Away.Team.Acronym }} Leads</span>
+                        <span
+                            ng-switch-when="mlb"
+                            ng-if="(game.Home.SeriesWin > game.Home.SeriesLost && game.TypeDetails != 'Division Playoff' && game.Home.SeriesWin < 4 && game.TypeDetails != '') || (game.Home.SeriesWin > game.Home.SeriesLost && game.TypeDetails == 'Division Playoff' && game.Home.SeriesWin < 3)">{{ game.Home.Team.Acronym }} Leads</span>
+                        <span ng-switch-when="mlb" ng-if="(game.Home.SeriesWin == 4 && game.TypeDetails != 'Division Playoff') || (game.Home.SeriesWin == 3 && game.TypeDetails == 'Division Playoff') || (game.TypeDetails == '' && game.Home.SeriesWin == 1)">{{ game.Home.Team.Acronym }} Wins</span>
+                        <span ng-switch-when="mlb" ng-if="(game.Away.SeriesWin == 4 && game.TypeDetails != 'Division Playoff') || (game.Away.SeriesWin == 3 && game.TypeDetails == 'Division Playoff') || (game.TypeDetails == '' && game.Away.SeriesWin == 1)">{{ game.Away.Team.Acronym }} Wins</span>
+
+                        <span class="record playoffs" ng-if="!game.Away.SeriesWin && !game.Home.SeriesWin">0-0</span>
+                        <span class="record playoffs" ng-if="game.Away.SeriesWin == game.Away.SeriesLost">{{game.Home.SeriesWin}}-{{game.Away.SeriesWin}}</span>
+                        <span class="record playoffs" ng-if="game.Away.SeriesWin > game.Away.SeriesLost">{{game.Away.SeriesWin}}-{{game.Home.SeriesWin}}</span>
+                        <span class="record playoffs" ng-if="game.Home.SeriesWin > game.Home.SeriesLost">{{game.Home.SeriesWin}}-{{game.Away.SeriesWin}}</span>
+                    </div>
+                    <div ng-switch-default></div>
+                </div>
+            </div>
+            <div class="game-teams" >
+                <div class="team-1" ng-class="{'winner': game.Home.IsWinner && currentSportSoccer == 'true' || game.Away.IsWinner && currentSportSoccer == 'false'}">
+                    <div class="team-name">
+                        <div ng-if="currentSport != 'wjhc' && currentSport != 'wmhc' && currentSport != 'wwhc' && currentSport != 'wch' && currentSportSoccer == 'false'" class="logo" team-class team-name="{{ ::game.Away.Team.SeoId }}" logo-size="24" sport="{{currentSport}}"></div>
+                        <div ng-if="currentSport == 'wjhc' || currentSport == 'wmhc' || currentSport == 'wwhc' || currentSport == 'wch' && currentSportSoccer == 'false'" class="logo flags-logo" team-class team-name="{{ ::game.Away.Team.SeoId }}" logo-size="24" sport="flags"></div>
+                        <span ng-if="currentSportSoccer == 'false'">{{ ::game.Away.Team.Acronym }}</span>
+
+                                                <div ng-if="currentSport != 'euro' && currentSportSoccer == 'true'" class="logo" team-class team-name="{{ ::game.Home.Team.SeoId }}" logo-size="24" sport="{{currentSport}}" original-league="{{game.Home.OriginalLeague}}"></div>
+                        <div ng-if="currentSport == 'euro' && currentSportSoccer == 'true'" class="logo flags-logo" team-class team-name="{{ ::game.Home.Team.SeoId }}" logo-size="24" sport="flags"></div>
+                        <span ng-if="currentSportSoccer == 'true'">{{ ::game.Home.Team.Acronym }}</span>
+                    </div>
+
+                                        <div class="team-score" ng-if="currentSport != 'mlb' && currentSportSoccer == 'true'">
+                        <span>{{ ::game.Home.Linescore.Score }}</span>
+                        <span ng-if="game.Home.hasShootOut == true">({{ game.Home.ShootOutGoals }})</span>
+                    </div>
+                    <div class="redcard-marker" ng-class="{'active': game.Home.RedCards > 0 }" ng-if="game.Home.RedCards && game.Home.RedCards > 0">{{game.Home.RedCards}}</div>
+
+                    <div class="team-score" ng-if="currentSport == 'mlb'">
+                        <span>{{ ::game.Away.Runs }}</span>
+                    </div>
+                    <div class="team-score" ng-if="currentSport != 'mlb' && currentSportSoccer == 'false'">
+                        <span>{{ ::game.Away.Linescore.Score }}</span>
+                        <span ng-if="game.Away.hasShootOut == true">({{ game.Away.ShootOutGoals }})</span>
+                    </div>
+                </div>
+                <div class="team-2" ng-class="{'winner': game.Away.IsWinner && currentSportSoccer == 'true' || game.Home.IsWinner && currentSportSoccer == 'false'}">
+                    <div class="team-name">
+                        <div ng-if="currentSport != 'wjhc' && currentSport != 'wmhc' && currentSport != 'wwhc' && currentSport != 'wch' && currentSportSoccer == 'false'" class="logo" team-class team-name="{{ ::game.Home.Team.SeoId }}" logo-size="24" sport="{{currentSport}}"></div>
+                        <div ng-if="currentSport == 'wjhc' || currentSport == 'wmhc' || currentSport == 'wwhc' || currentSport == 'wch' && currentSportSoccer == 'false'" class="logo flags-logo" team-class team-name="{{ ::game.Home.Team.SeoId }}" logo-size="24" sport="flags"></div>
+                        <span ng-if="currentSportSoccer == 'false'">{{ ::game.Home.Team.Acronym }}</span>
+
+                                                <div ng-if="currentSport != 'euro' && currentSportSoccer == 'true'" class="logo" team-class team-name="{{ ::game.Away.Team.SeoId }}" logo-size="24" sport="{{currentSport}}" original-league="{{game.Away.OriginalLeague}}"></div>
+                        <div ng-if="currentSport == 'euro' && currentSportSoccer == 'true'" class="logo flags-logo" team-class team-name="{{ ::game.Away.Team.SeoId }}" logo-size="24" sport="flags"></div>
+                        <span ng-if="currentSportSoccer == 'true'">{{ ::game.Away.Team.Acronym }}</span>
+                    </div>
+
+                                        <div class="team-score" ng-if="currentSport != 'mlb' && currentSportSoccer == 'true'">
+                        <span>{{ ::game.Away.Linescore.Score }}</span>
+                        <span ng-if="game.Away.hasShootOut == true">({{ game.Away.ShootOutGoals }})</span>
+                    </div>
+                    <div class="redcard-marker" ng-class="{'active': game.Away.RedCards > 0 }" ng-if="game.Away.RedCards && game.Away.RedCards > 0">{{game.Away.RedCards}}</div>
+
+                    <div class="team-score" ng-if="currentSport == 'mlb'">
+                        <span>{{ ::game.Home.Runs }}</span>
+                    </div>
+                    <div class="team-score" ng-if="currentSport != 'mlb' && currentSportSoccer == 'false'">
+                        <span>{{ ::game.Home.Linescore.Score }}</span>
+                        <span ng-if="game.Home.hasShootOut == true">({{ game.Home.ShootOutGoals }})</span>
+                    </div>
+                </div>
+                <div class="team-record" ng-if="currentSport != 'wjhc' && currentSport != 'nfl' && currentSport != 'cfl'" ng-switch on="game.Type">
+                    <div ng-switch-when="Spring"></div>
+                    <div ng-switch-when="PreSeason"></div>
+                    <div ng-switch-when="PostSeason"></div>
+                    <div ng-switch-default></div>
+                </div>
+            </div>
+        </div>
+    </a>
+</script>
+
+      
+  
+              </div>
+        <div class='site-header-background'>
+          <div class="site-header">
+            
+                  
+    
+  
+    
+  
+    
+    
+        
+	<div class="mobile-header-nav tsn">
+		<div class="site-header-mobile">
+			<a title="TSN" href="/"><h1 class="site-header-logo">TSN</h1></a>
+			<ul id="site-nav" class="site-nav">
+									<li class="menu-mobile-nav-toggle"><a id="left-menu" href="#left-menu"/><div class="icon"></div></a></li>
+					<li class="sports-nav-scores"><a id="right-menu" href="#right-menu"/><div class="icon"></div></a></li>
+							</ul>
+
+					</div>
+	</div>
+
+<div class="site-header-main tsn">
+	<div class='site-header-wrapper'>
+		<a title="TSN" href="http://www.tsn.ca"><h1 class="site-header-logo">TSN</h1></a>
+		<ul class="site-nav">
+							<li  class="sports-nav-toggle sports" >
+											                            <a href="" style="pointer-events:none;">
+                                <div class="icon"></div>
+                                <div class="title">Sports</div>
+                            </a>
+						
+					
+																<div class="sports-nav">
+    <ul class="sports-nav-dropdown">
+                                                                  <li data-submenu-id="submenu-1">
+                <a href="http://www.tsn.ca/nhl">NHL</a>
+
+                                <div id="submenu-1" class="sports-nav-popover">
+                      <ul>
+                                                                                    <li>
+                                    <a href="http://www.tsn.ca/nhl">News</a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="http://www.tsn.ca/nhl/video">Video</a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="http://www.tsn.ca/nhl/scores">Scores</a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="http://www.tsn.ca/nhl/schedule">Schedule</a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="http://www.tsn.ca/nhl/standings">Standings</a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="http://www.tsn.ca/nhl/statistics">Statistics</a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="http://www.tsn.ca/bobcast">Bobcast</a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="http://www.tsn.ca/nhl/teams">Teams</a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="http://www.tsn.ca/nhl/players">Players</a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="http://www.tsn.ca/tradecentre">Tradecentre</a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="http://www.tsn.ca/draftcentre">Draftcentre</a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="http://www.tsn.ca/nhl/transactions">Transactions</a>
+                                </li>
+                                                                                                                <li>
+                                    <a href="http://www.tsn.ca/nhl/injuries">Injuries</a>
+                                </li>
+                                                                                                                              </ul>
+
+                                            <div class="sports-nav-feed">
+                            <ul class="sports-nav-feed-list">
+                                                                <li class="item">
+                                      <div class="item-content">
+                                          <div class="article-content">
+                                              <a href="/marner-van-riemsdyk-lead-leafs-past-bruins-1.912926" />
+                                              <div class="icon-related-arrow"></div>
+                                              <span>
+                                <strong>Marner, van Riemsdyk lead Leafs past Bruins</strong>
+                                                                                                                              </span>
+                                              </a>
+                                          </div>
+                                      </div>
+                                  </li>
+                                                                <li class="item">
+                                      <div class="item-content">
+                                          <div class="article-content">
+                                              <a href="/nhl/video/tsn-original-surfacing%7E1219086" />
+                                              <div class="icon-related-arrow"></div>
+                                              <span>
+                                <strong>TSN Original: Surfacing </strong>
+                                                                                                    <span class="icon-small-video black"></span>
+                                                                                                                              </span>
+                                              </a>
+                                          </div>
+                                      </div>
+                                  </li>
+                                                                <li class="item">
+                                      <div class="item-content">
+                                          <div class="article-content">
+                                              <a href="/pacioretty-scores-in-ot-to-lift-habs-over-sabres-1.912919" />
+                                              <div class="icon-related-arrow"></div>
+                                              <span>
+                                <strong>Pacioretty scores in OT to lift Habs over Sabres</strong>
+                                                                                                                              </span>
+                                              </a>
+                                          </div>
+                                      </div>
+                                  </li>
+                                                                <li class="item">
+                                      <div class="item-content">
+                                          <div class="article-content">
+                                              <a href="/couture-tierney-help-sharks-beat-canucks-1.913001" />
+                                              <div class="icon-related-arrow"></div>
+                                              <span>
+                                <strong>Couture, Tierney help Sharks beat Canucks</strong>
+                                                                                                                              </span>
+                                              </a>
+                                          </div>
+                                      </div>
+                                  </li>
+                                                                <li class="item">
+                                      <div class="item-content">
+                                          <div class="article-content">
+                                              <a href="/scheifele-laine-lead-jets-past-coyotes-1.913003" />
+                                              <div class="icon-related-arrow"></div>
+                                              <span>
+                                <strong>Scheifele, Laine lead Jets past Coyotes</strong>
+                                                                                                                              </span>
+                                              </a>
+                                          </div>
+                                      </div>
+                                  </li>
+                                                                <li class="item">
+                                      <div class="item-content">
+                                          <div class="article-content">
+                                              <a href="/forsberg-lifts-pens-past-predators-in-shootout-1.912950" />
+                                              <div class="icon-related-arrow"></div>
+                                              <span>
+                                <strong>Forsberg lifts Pens past Predators in shootout</strong>
+                                                                                                                              </span>
+                                              </a>
+                                          </div>
+                                      </div>
+                                  </li>
+                                                                <li class="item">
+                                      <div class="item-content">
+                                          <div class="article-content">
+                                              <a href="/sens-top-avalanche-sweep-stockholm-series-1.912759" />
+                                              <div class="icon-related-arrow"></div>
+                                              <span>
+                                <strong>Sens top Avalanche, sweep Stockholm series</strong>
+                                                                                                                              </span>
+                                              </a>
+                                          </div>
+                                      </div>
+                                  </li>
+                                                                <li class="item">
+                                      <div class="item-content">
+                                          <div class="article-content">
+                                              <a href="/rangers-top-oilers-win-6th-straight-1.912760" />
+                                              <div class="icon-related-arrow"></div>
+                                              <span>
+                                <strong>Rangers top Oilers, win 6th straight</strong>
+                                                                                                                              </span>
+                                              </a>
+                                          </div>
+                                      </div>
+                                  </li>
+                                                                <li class="item">
+                                      <div class="item-content">
+                                          <div class="article-content">
+                                              <a href="/saad-scores-in-ot-to-lead-blackhawks-over-canes-1.912915" />
+                                              <div class="icon-related-arrow"></div>
+                                              <span>
+                                <strong>Saad scores in OT to lead Blackhawks over Canes</strong>
+                                                                                                                              </span>
+                                              </a>
+                                          </div>
+                                      </div>
+                                  </li>
+                                                                <li class="item">
+                                      <div class="item-content">
+                                          <div class="article-content">
+                                              <a href="/tavares-sparks-islanders-to-win-over-blues-1.912951" />
+                                              <div class="icon-related-arrow"></div>
+                                              <span>
+                                <strong>Tavares sparks Islanders to win over Blues</strong>
+                                                                                                                              </span>
+                                              </a>
+                                          </div>
+                                      </div>
+                                  </li>
+                                                                <li class="item">
+                                      <div class="item-content">
+                                          <div class="article-content">
+                                              <a href="/johnson-blue-jackets-beat-red-wings-in-shootout-1.912920" />
+                                              <div class="icon-related-arrow"></div>
+                                              <span>
+                                <strong>Johnson, Blue Jackets beat Red Wings in shootout</strong>
+                                                                                                                              </span>
+                                              </a>
+                                          </div>
+                                      </div>
+                                  </li>
+                                                                <li class="item">
+                                      <div class="item-content">
+                                          <div class="article-content">
+                                              <a href="/schneider-makes-32-saves-as-devils-top-panthers-1.912909" />
+                                              <div class="icon-related-arrow"></div>
+                                              <span>
+                                <strong>Schneider makes 32 saves as Devils top Panthers</strong>
+                                                                                                                              </span>
+                                              </a>
+                                          </div>
+                                      </div>
+                                  </li>
+                                                                <li class="item">
+                                      <div class="item-content">
+                                          <div class="article-content">
+                                              <a href="/nhl/video/must-see-kariya-shares-emotional-moment-with-fan%7E1258476" />
+                                              <div class="icon-related-arrow"></div>
+                                              <span>
+                                <strong>Must See: Kariya share
